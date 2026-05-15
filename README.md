@@ -1,144 +1,235 @@
-# Fine-tuning Pipeline for DBpedia RDF Triple Extraction (FT-Mini)
+# FT-Mini: Fine-tuned RDF Triple Extraction
 
-This project contains utilities to fine-tune `gpt-4o-mini` into the **FT-Mini** model, which generates DBpedia-aligned RDF triples (Turtle format) from input texts. Training data comes from WebNLG-MuSiQue-HotpotQA-style datasets. The resulting fine-tuned model is evaluated in the sibling folder `../Deliverables/Deliverable D6/hipporag_vs_ft_mini/`, where it outperformed a 3-step prompting baseline (F1: 0.3236 vs 0.2375) on the HotMusValid dataset.
+Utilities to fine-tune **gpt-4o-mini** into **FT-Mini**, a model that extracts DBpedia-aligned RDF triples (Turtle) from plain text. Training data is compiled from WebNLG / MuSiQue / HotpotQA-style sources.
 
-## Repository Layout
+On **HotMusValid**, FT-Mini reached **F1 0.3236** vs **0.2375** for a 2-step prompting baseline in an external comparison study.
 
-- `batch_test/`: prepare and run OpenAI "batch" jobs for inference.
-  - `batch_creator.py`: builds an OpenAI batch request `.jsonl` from a JSON list of texts (expects `row_idx` and `text` fields per entry). Takes two CLI arguments: `<texts.json> <output_batch.jsonl>`. Uses a placeholder `MODEL_NAME = "your_model"` that must be set to your fine-tuned model name.
-  - `create_batch_upload.py`: uploads the batch request file and creates the OpenAI batch job (`/v1/chat/completions`, `completion_window="24h"`).
-  - `process_monitor.py`: checks a batch job's status and progress (requires `JOB_ID`).
-  - `download_batch_file.py`: downloads batch output by `file_id` and writes it to a local file.
+## Quick start
 
-- `code_for_finetuning/`: start fine-tuning and retrieve results.
-  - `uploader_for_finetuning.py`: uploads training + validation JSONL files and creates a fine-tuning job. Currently hardcodes `train.jsonl` and `validation.jsonl` as input files, and uses `gpt-4o-mini-2024-07-18` as the base model. Update these values to match your setup.
-  - `process_monitor.py`: checks fine-tuning job status (requires `job_id`).
-  - `download_model_name.py`: fetches the fine-tuned model name (requires `job_id`).
+From the project root (`ft-mini/`):
 
-- `datasets/`: dataset JSON files used as sources/ground truth.
-  - `gt_text_webnlg*.json`: ground-truth WebNLG variants.
-  - `gt_text_hotmusvalid.json`: ground-truth HotMusValid.
-  - `remove_row.py`: dataset cleanup stub (uses placeholder filenames).
+```bash
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # macOS / Linux
 
-- `evaluation/`: evaluation utilities (triple parsing + fuzzy matching metrics).
-  - `evaluation.py`: compares predicted triples vs ground truth triples, using:
-    - DBpedia Spotlight for entity linking
-    - DBpedia SPARQL `owl:sameAs` for sameAs equivalence
-    - `sentence-transformers` (`all-MiniLM-L6-v2`) cosine similarity for predicate matching
-    - Writes a per-document JSON report and computes precision/recall/F1
-    - Uses placeholder filenames in `__main__` (`example_groundtruth.json`, `example_predictions.json`) — update before running.
-  - `formater_for_evaluation.py`: parses OpenAI batch output `.jsonl` into a JSON structure with `custom_id` and extracted triple strings. Takes two CLI arguments via `argparse`: `<input_file> <output_file>`.
-  - `duplicate_cleaner.py`: removes duplicates from each item's `content` list (expects `content` to be a list).
-
-- `inference_test/`: quick smoke-test for prompting/inference.
-  - `run_inference.py`: calls `client.chat.completions.create(...)` using a fine-tuned gpt-4o-mini model for a hardcoded `texts` list, then de-duplicates and prints "cleaned" Turtle lines. Update the model name and input texts before use.
-  - `run_inference_yaml.py`: runs inference using an `inference.yaml` file (pass with `--config`).
-
-- `prompts/`: prompt text fragments used for few-shot / prompting variants.
-  - `p0.txt` … `p4.txt`: prompt templates.
-
-- `train_validation_sets/`: converts dataset compilation JSON into fine-tuning JSONL.
-  - `set_creator/set_creator.py`: reads `train_compilation.json` and `validation_compilation.json` (filenames are configurable near the top) and writes:
-    - `train_set.jsonl`
-    - `validation_set.jsonl`
-
-## OpenAI Configuration Notes
-
-Most scripts currently use placeholders like `OpenAI(api_key="your_key")` and hardcoded filenames/model names. Before running, you must update:
-- Your API key in each script
-- Any placeholder `job_id`, `file_id`, and input/output filenames
-- `MODEL_NAME` in `batch_test/batch_creator.py` (set to `"your_model"`)
-- Training/validation filenames in `code_for_finetuning/uploader_for_finetuning.py` (currently `train5.jsonl` / `validation5.jsonl`)
-- Ground truth and prediction filenames in `evaluation/evaluation.py` (currently `example_groundtruth.json` / `example_predictions.json`)
-This project uses a central `config.yaml` file to manage API keys, model names, and generation parameters to avoid hardcoding sensitive information in the scripts. 
-
-**Before running any scripts, you must:**
-1. Create a `config.yaml` file in the root directory (make sure this is added to your `.gitignore`!).
-2. Define your parameters. 
-
-**Example `config.yaml` structure:**
-```yaml
-api_key: "sk-your-openai-api-key"
-model: "ft:gpt-4o-mini-2024-07-18:personal::DEtnoKmS" # Our fine-tuned model name
-temperature: 0.0
-
-# Base instructions for the model
-system_prompt: |
-  # Role: ... [Insert full prompt here]
-
-# For quick inference tests
-input_texts:
-  - "Example text 1..."
-  - "Example text 2..."
+pip install -r requirements-inference.txt
 ```
 
-## Expected Data Schemas
+1. Copy and edit `inference_test/inference.yaml` (API key, model name, `input_texts`).
+2. Run a smoke test:
+
+```bash
+python inference_test/run_inference_yaml.py
+```
+
+For batch inference and evaluation, install the matching requirement files and use the YAML runners described below.
+
+## Project layout
+
+```
+ft-mini/
+├── batch_test/              # OpenAI Batch API (large-scale inference)
+├── code_for_finetuning/     # Upload JSONL and start fine-tuning jobs
+├── datasets/                # Ground-truth JSON (gt_text_*.json)
+├── evaluation/              # Parse batch output, score vs ground truth
+├── inference_test/          # Single-request inference smoke tests
+├── prompts/                 # Prompt fragments (p0.txt … p4.txt)
+└── train_validation_sets/   # Build train/validation JSONL for fine-tuning
+```
+
+All paths in YAML configs are resolved **relative to this repository root**, not a parent monorepo.
+
+## Configuration
+
+Secrets and run parameters live in **YAML files next to the scripts that read them** (not a single root `config.yaml`):
+
+| File | Used by |
+|------|---------|
+| `inference_test/inference.yaml` | `run_inference_yaml.py` |
+| `batch_test/batch_test_run.yaml` | `run_batch_test_yaml.py` |
+| `evaluation/evaluation.yaml` | `run_evaluation_yaml.py` |
+
+Do not commit real API keys. Add `*api_key*` patterns or local overrides to `.gitignore` if you keep secrets in YAML.
+
+Some legacy scripts still use placeholders (`your_key`, `your_model`). Prefer the YAML runners; they pass `OPENAI_API_KEY` and `MODEL_NAME` via environment variables where needed.
+
+### Example: inference (`inference_test/inference.yaml`)
+
+```yaml
+api_key: "sk-..."
+model: "ft:gpt-4o-mini-2024-07-18:personal::YOUR_MODEL_ID"
+temperature: 0.0
+system_prompt: |
+  # Role: ...
+input_texts:
+  - "Example text to extract triples from."
+```
+
+## Dependencies
+
+Install only what you need:
+
+| Task | Requirements file |
+|------|-------------------|
+| Inference smoke test | `requirements-inference.txt` |
+| Batch jobs | `requirements-batch.txt` |
+| Evaluation (DBpedia Spotlight, SPARQL, embeddings) | `requirements-evaluation.txt` |
+
+Fine-tuning upload/monitor scripts need `openai` (included in inference/batch requirements).
+
+Evaluation additionally uses live **DBpedia Spotlight** and **SPARQL** endpoints; allow network access when running `evaluation/`.
+
+## Data formats
 
 ### Fine-tuning JSONL (`train_set.jsonl`, `validation_set.jsonl`)
-Each line is a chat-example with `messages` including:
-- `system`: RDF triple generation instruction (DBpedia/Turtle aligned)
-- `user`: the input text
-- `assistant`: the target Turtle triples as plain content
 
-Generated by: `train_validation_sets/set_creator/set_creator.py`
+One JSON object per line, OpenAI chat format:
 
-### Batch request `.jsonl` (for inference)
-Built by: `batch_test/batch_creator.py`
-- Input JSON entries should have:
-  - `row_idx` (used as `custom_id`)
-  - `text` (the raw input text)
-- Output JSONL lines include:
-  - `custom_id`
-  - `method`: `POST`
-  - `url`: `/v1/chat/completions`
-  - `body.model`: the chat model name (set in the script via `MODEL_NAME`)
-  - `body.messages`: system + user prompt(s)
+- `messages[].role`: `system`, `user`, `assistant`
+- `assistant` content: target Turtle triples
 
-### Evaluation inputs for `evaluation.py`
-`evaluation.py` expects two JSON files:
-- Ground truth JSON: items with `row_idx` and `triples` fields
-- Predictions JSON: items with `custom_id` and `content` (list of triple strings)
+Built by `train_validation_sets/set_creator/set_creator.py` from `train_compilation.json` and `validation_compilation.json` in the same folder.
 
-The `formater_for_evaluation.py` script produces the predictions JSON shape expected by `evaluation.py`.
+### Batch request JSONL
 
-## Typical End-to-End Workflow
+Built by `batch_test/batch_creator.py`. Input JSON items need:
 
-1. **Create fine-tuning JSONL**
-   - Put your `train_compilation.json` and `validation_compilation.json` where `set_creator.py` expects them.
-   - Run: `python train_validation_sets/set_creator/set_creator.py`
+- `row_idx` → `custom_id`
+- `text` → user message content
 
-2. **Upload + start a fine-tuning job**
-   - Update filenames and API key in the script, then run:
-   - `python code_for_finetuning/uploader_for_finetuning.py`
+Set the model via `MODEL_NAME` or `OPENAI_MODEL_NAME` environment variable (the YAML batch runner sets this automatically).
 
-3. **Monitor + fetch the fine-tuned model name**
-   - `python code_for_finetuning/process_monitor.py`
-   - `python code_for_finetuning/download_model_name.py`
+### Evaluation inputs
 
-4. **Prepare batch inference requests**
-   - Set `MODEL_NAME` to your fine-tuned model name in `batch_creator.py`, then run:
-   - `python batch_test/batch_creator.py <texts.json> <output_batch.jsonl>`
+- **Ground truth** (`datasets/gt_text_*.json`): `row_idx`, `triples` (list of `"subject , predicate , object"` strings)
+- **Predictions** (after formatting): `custom_id`, `content` (list of triple strings)
 
-5. **Submit batch inference job**
-   - Edit the input filename passed to `submit_batch(...)`, then run:
-   - `python batch_test/create_batch_upload.py`
+`evaluation/formater_for_evaluation.py` converts OpenAI batch output JSONL into the predictions shape.
 
-6. **Monitor + download batch results**
-   - `python batch_test/process_monitor.py <JOB_ID>`
-   - `python batch_test/download_batch_file.py <OUTPUT_FILE_ID> <OUTPUT_FILENAME>`
+## Workflows
 
-7. **Format + evaluate**
-   - `python evaluation/formater_for_evaluation.py <input_batch_output.jsonl> <output_predictions.json>`
-   - `python evaluation/duplicate_cleaner.py <output_predictions.json>` (removes duplicates from each item's `content` list)
-   - Update placeholder filenames in `evaluation.py`, then run:
-   - `python evaluation/evaluation.py`
+### 1. Build fine-tuning data
 
-## Dependencies (Inferred from Imports)
+```bash
+cd train_validation_sets/set_creator
+python set_creator.py
+```
 
-- `openai`
-- `requests`
-- `scikit-learn` (precision/recall/F1)
-- `SPARQLWrapper`
-- `sentence-transformers`
-- `tqdm`
-- `pyyaml`
+Outputs `train_set.jsonl` and `validation_set.jsonl` in that directory. Edit `INPUT_TRAIN_JSON` / `INPUT_VAL_JSON` at the top of `set_creator.py` if your compilation filenames differ.
+
+### 2. Fine-tune on OpenAI
+
+1. Edit API key and JSONL paths in `code_for_finetuning/uploader_for_finetuning.py`.
+2. Upload and start the job:
+
+```bash
+python code_for_finetuning/uploader_for_finetuning.py
+```
+
+3. Monitor and retrieve the fine-tuned model id:
+
+```bash
+python code_for_finetuning/process_monitor.py   # set job_id in script
+python code_for_finetuning/download_model_name.py
+```
+
+### 3. Batch inference (recommended)
+
+1. Edit `batch_test/batch_test_run.yaml` (`openai_api_key`, `model_name`, `texts_json`, output paths).
+2. Run the full pipeline (create requests → submit → monitor → download):
+
+```bash
+python batch_test/run_batch_test_yaml.py
+```
+
+Or run steps manually:
+
+```bash
+set OPENAI_API_KEY=sk-...
+set MODEL_NAME=ft:gpt-4o-mini-...
+python batch_test/batch_creator.py datasets/gt_text_hotmusvalid.json batch_outputs/batch_requests.jsonl
+python batch_test/create_batch_upload.py batch_outputs/batch_requests.jsonl
+python batch_test/process_monitor.py <JOB_ID>
+python batch_test/download_batch_file.py <OUTPUT_FILE_ID> batch_outputs/batch_results.jsonl
+```
+
+### 4. Evaluate predictions (recommended)
+
+1. Place batch result JSONL at the path in `evaluation/evaluation.yaml` (or update the config).
+2. Run format → dedupe → score:
+
+```bash
+python evaluation/run_evaluation_yaml.py
+```
+
+Manual equivalent:
+
+```bash
+python evaluation/formater_for_evaluation.py batch_outputs/batch_results.jsonl batch_outputs/predictions.json
+python evaluation/duplicate_cleaner.py batch_outputs/predictions.json batch_outputs/predictions_clean.json
+# Then call evaluate_triples from evaluation/evaluation.py or adjust its __main__ paths
+```
+
+### 5. Quick inference test
+
+```bash
+python inference_test/run_inference_yaml.py
+# optional: python inference_test/run_inference_yaml.py --config path/to/inference.yaml
+```
+
+Legacy script: `inference_test/run_inference.py` (hardcoded key, model, and texts).
+
+## Module reference
+
+### `batch_test/`
+
+| Script | Purpose |
+|--------|---------|
+| `run_batch_test_yaml.py` | End-to-end batch workflow from `batch_test_run.yaml` |
+| `batch_creator.py` | Build batch request `.jsonl` from a texts JSON file |
+| `create_batch_upload.py` | Upload JSONL and create batch job (`OPENAI_API_KEY`) |
+| `process_monitor.py` | Poll batch job status |
+| `download_batch_file.py` | Download completed batch output |
+
+### `code_for_finetuning/`
+
+| Script | Purpose |
+|--------|---------|
+| `uploader_for_finetuning.py` | Upload train/val JSONL and start fine-tuning |
+| `process_monitor.py` | Poll fine-tuning job status |
+| `download_model_name.py` | Print fine-tuned model name for a job |
+
+### `datasets/`
+
+Ground-truth JSON files for evaluation:
+
+- `gt_text_webnlg.json`, `gt_text_webnlg_plus.json`, `gt_text_webnlg_plus_plus.json`
+- `gt_text_hotmusvalid.json`
+
+### `evaluation/`
+
+| Script | Purpose |
+|--------|---------|
+| `run_evaluation_yaml.py` | Format, dedupe, and score from `evaluation.yaml` |
+| `formater_for_evaluation.py` | Batch output JSONL → predictions JSON |
+| `duplicate_cleaner.py` | Remove duplicate triples per `content` list |
+| `evaluation.py` | Entity linking, sameAs checks, predicate similarity, P/R/F1 |
+
+### `inference_test/`
+
+| Script | Purpose |
+|--------|---------|
+| `run_inference_yaml.py` | Chat completions from `inference.yaml` |
+| `run_inference.py` | Legacy hardcoded smoke test |
+
+### `prompts/`
+
+`p0.txt` … `p4.txt` — prompt templates for experimentation.
+
+### `train_validation_sets/set_creator/`
+
+| File | Purpose |
+|------|---------|
+| `set_creator.py` | Compilation JSON → OpenAI fine-tuning JSONL |
+| `train_compilation.json`, `validation_compilation.json` | Source training examples |
