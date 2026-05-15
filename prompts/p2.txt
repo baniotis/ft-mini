@@ -1,0 +1,113 @@
+# Role:
+You are an expert Knowledge Engineer specializing 
+in Semantic Web technologies, specifically RDF, 
+the DBpedia ontology, and Entity Linking.
+
+# Objective:
+Convert a list of raw Subject–Predicate–Object 
+(SPO) text triples into high-quality, 
+ontology-aligned RDF triples using the Turtle 
+syntax.
+
+# Context:
+You will be provided with a short "Context 
+Text" (the source of the facts) and a list 
+of "Input Triples" extracted from that text.
+
+# Instructions:
+
+### 1. Entity Linking (Subject & Object)
+- Map entities to their specific DBpedia 
+URI (dbr:).
+- Example: "Michael Jordan" (basketball) 
+→ dbr:Michael_Jordan
+- If an entity is generic or cannot be 
+linked (e.g., specific numbers, dates, 
+or unknown names), format them as Literals.
+
+### 2. Predicate Mapping
+- Map the relationship to the most specific 
+DBpedia Ontology property (dbo:).
+- If no `dbo:` property exists, check DBpedia 
+Property (dbp:).
+- If neither exists, use `rdfs:label` or 
+`rdf:value` only as a last resort. Do not 
+invent properties.
+
+### 3. RDF Type Assertions
+- If a triple indicates what something 
+*is* (e.g., "is a city", "was a writer"), 
+use `rdf:type` mapping the object to a 
+DBpedia Class (dbo:).
+
+### 4. Literal Handling
+- Strings: "Value"@en
+- Dates: "YYYY-MM-DD"^^xsd:date
+- Integers: 123
+- Use standard XSD types where 
+applicable.
+
+### 5. Output Format
+- STRICT Turtle format.
+- Use the prefixes defined below.
+- End every triple with a period `.`.
+- Output ONLY the triples. 
+No explanations.
+
+# Prefixes:
+@prefix dbo: 
+<http://dbpedia.org/ontology/> .
+@prefix dbp: 
+<http://dbpedia.org/property/> .
+@prefix dbr: 
+<http://dbpedia.org/resource/> .
+@prefix rdf: 
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: 
+<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: 
+<http://www.w3.org/2001/XMLSchema#> .
+
+# Few-Shot Examples:
+
+## Context Text:
+"Estádio Municipal Coaracy da Mata Fonseca 
+is the ground of Agremiação Sportiva 
+Arapiraquense in Arapiraca. The team, 
+nicknamed 'Alvinegro', plays in Série C."
+
+## Example Input Triples:
+1. (Ground of Agremiação Sportiva Arapiraquense) 
+| (has name) 
+| (Estádio Municipal Coaracy da Mata Fonseca)
+2. (Agremiação Sportiva Arapiraquense) 
+| (is located in) | (Arapiraca)
+3. (Agremiação Sportiva Arapiraquense) 
+| (league) | (Campeonato Brasileiro Série C)
+4. (Agremiação Sportiva Arapiraquense) 
+| (has nickname) | (Alvinegro)
+5. (Agremiação Sportiva Arapiraquense) 
+| (founded in) | (1952)
+
+## Example Output (Turtle):
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:ground 
+dbr:Estádio_Municipal_Coaracy_da_Mata_Fonseca .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:hometown dbr:Arapiraca .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:league dbr:Campeonato_Brasileiro_Série_C .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:nickname "Alvinegro"@en .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:foundingYear "1952"^^xsd:gYear .
+
+---
+
+# Current Task:
+
+## Context Text:
+<INSERT CONTEXT TEXT HERE>
+
+## Input Triples:
+<INSERT SPO TRIPLES HERE>

@@ -1,0 +1,106 @@
+# Task: Extract Triples
+
+## Instructions:
+You are an expert data annotator for a Question
+Answering system.
+Your task is to extract Subject–Predicate–Object 
+(SPO) triples from the text provided below.
+
+## Guidelines:
+
+1. Atomic Facts:
+Break complex sentences into multiple simple 
+triples. Create a separate triple for each 
+distinct fact. If a sentence contains a 
+list, create a separate triple for each item.
+
+2. Coreference Resolution:
+Resolve all coreferences. Replace pronouns 
+(it, they, he, she, his, her, their) 
+with the full, explicit entity name 
+they refer to.
+
+3. Concise Predicates:
+Use short, functional predicates that 
+clearly express the relationship (e.g., 
+"is a member of" instead of "is a person 
+who is a member of").
+
+4. Entity Consistency:
+Use the full, formal name of each entity 
+consistently across all triples. Do not 
+introduce abbreviations unless they are 
+explicitly defined in the text.
+
+5. Strict Text Adherence:
+Extract ONLY facts that are explicitly 
+stated in the provided text. Do NOT infer, 
+assume, or add world knowledge. If no 
+factual relationships are present, output:
+"No triples found."
+
+6. Numerical and Attribute Facts:
+Extract explicit numerical, temporal, ordinal, 
+and attribute information (e.g., age, 
+dates, years, rankings, first overall pick) 
+as separate triples.
+
+7. Role-Based Relationships:
+If an entity participates in an organization, 
+league, team, or event through an explicitly 
+stated role (e.g., player, member, participant),
+extract that relationship as a separate triple.
+
+8. Event and Context Linking:
+When an entity is explicitly connected to 
+an event (e.g., Olympics, drafts, seasons,
+championships), create a triple linking the 
+entity to the event as stated in the text.
+
+9. Correct Attribution:
+Attribute actions, outcomes, and qualifications
+to the most specific entity mentioned in 
+the text (e.g., national team rather than 
+country, organization rather than location).
+
+10. Compound Descriptors:
+If the text uses compound descriptors 
+(e.g., hyphenated nationality, multi-part 
+titles) that clearly denote multiple explicit 
+factual attributes, extract each attribute 
+as a separate triple.
+
+## Output Format:
+Each triple must be on its own line, using 
+the following format:
+
+(Subject) | (Predicate) | (Object)
+
+Do not add explanations, comments, or 
+additional text. Output only the extracted 
+triples.
+
+## Example Source Text:
+"The 2016 Blancpain GT Sports Club was the second season of the
+SRO Group's Blancpain GT Sports Club, an auto racing series for
+grand tourer cars. The Blancpain GT Sports Club is a championship
+for Bronze and Iron drivers only. The 'Iron' categorisation is
+within the Bronze category, for drivers over the age of 60.
+All drivers must participate with GT3-spec cars, RACB G3 cars
+or GTE-spec cars."
+## Example Output:
+(2016 Blancpain GT Sports Club) | (was) | (second season of Blancpain GT Sports Club)
+(Blancpain GT Sports Club) | (is organized by) | (SRO Group)
+(Blancpain GT Sports Club) | (is) | (auto racing series)
+(Blancpain GT Sports Club) | (is for) | (grand tourer cars)
+(Blancpain GT Sports Club) | (is championship for) | (Bronze drivers)
+(Blancpain GT Sports Club) | (is championship for) | (Iron drivers)
+(Iron categorisation) | (is within) | (Bronze category)
+(Iron categorisation) | (is for) | (drivers over the age of 60)
+(All drivers) | (must participate with) | (GT3-spec cars)
+(All drivers) | (must participate with) | (RACB G3 cars)
+(All drivers) | (must participate with) | (GTE-spec cars)
+
+## Input Source Text:
+"""
+<INSERT TEXT HERE>

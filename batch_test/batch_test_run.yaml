@@ -1,0 +1,41 @@
+# Batch inference workflow runner (used by `batch_test/run_batch_test_yaml.py`)
+#
+# Required keys you MUST edit:
+# - `openai_api_key`: your OpenAI API key
+# - `model_name`: fine-tuned model name to put into the batch requests
+# - `texts_json`: input JSON file path (expects entries with `row_idx` and `text`)
+# - `batch_output_jsonl`: output path for the generated batch request JSONL
+#
+# Output/advanced keys:
+# - `download_output_filename`: where the final batch results JSONL is downloaded
+# - `submit`/`monitor`/`download`: booleans to enable/disable steps
+# - `job_id`: if you already created the batch job, set this to skip submission
+# - `output_file_id`: if you already know the batch output file id, set this to skip monitoring
+#
+# Note: paths are resolved relative to the repository root.
+# If `job_id`/`output_file_id` are null and the corresponding step is enabled,
+# the runner parses them from script stdout.
+#
+# Required:
+# - openai_api_key
+# - model_name (fine-tuned model name used in batch request)
+# - texts_json (input JSON; expects entries with `row_idx` and `text`)
+#
+# Optional:
+# - job_id (if you already submitted; otherwise runner will try to parse it from submission)
+# - output_file_id (if you already have it; otherwise runner can try to parse it from monitor)
+
+openai_api_key: "YOUR_OPENAI_API_KEY"
+model_name: "ft:gpt-4o-mini-2024-07-18:personal::YOUR_MODEL_ID"
+
+texts_json: datasets/gt_text_hotmusvalid.json
+batch_output_jsonl: batch_outputs/batch_requests.jsonl
+
+submit: true
+monitor: true
+download: true
+
+job_id: null
+output_file_id: null
+download_output_filename: batch_outputs/batch_results.jsonl
+

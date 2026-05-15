@@ -1,0 +1,1291 @@
+[
+  {
+    "custom_id": "3062_1",
+    "title": "Cheryl discography",
+    "text": "The discography of English recording artist Cheryl consists of four studio albums, one extended play, nine singles (excluding three as a featured artist), and fourteen music videos. Cheryl's first foray into a solo music career occurred when she featured on will.i.am's \"Heartbreaker\". After having streetdancing lessons during the filming of \"Passions of Girls Aloud\" series, Cheryl was picked to appear in the song's video. She was later asked to sing the female vocals on the UK release of the track, which reached number four in the United Kingdom and sold over 250,000 copies, giving the single a silver certificate by the BPI. It was the 31st best selling single of 2008. Cheryl's solo career began in October 2009 with the release of \"Fight for This Love\", the lead single from her debut studio album, \"3 Words\". The track saw Cheryl achieve her first solo number-one single when it topped the UK chart, while also attaining international chart success; peaking within the top 10 in the likes of France, Germany and the Netherlands. The parent album debuted at number one in the UK with sales of 125,271. On 6 November 2009 the British Phonographic Industry (BPI) certified the album platinum. It has since gone 3× Platinum, with sales of over 1,000,000 copies. \"3 Words\" is both the opening and title song from her debut studio album. It was released in the UK and Ireland on 20 December 2009 went on to become Fernandez-Versini's second consecutive UK top-five and Irish-top ten hit. It was also a top five hit in Australia and has since been certified platinum by the Australian Recording Industry Association and gold by the British Phonographic Industry. \"Parachute\" was released on 11 March 2010 as the album's third and final single. \"Parachute\" became Cheryl's third consecutive solo UK top five hit, and her third Irish top 10 hit. It was nominated for a Brit Award in 2011.",
+    "input": [
+      "Cheryl_discography | studio | \"4\"",
+      "Cheryl_discography | ep | \"1\"",
+      "Cheryl_discography | singles | \"9\"",
+      "Cheryl_discography | musicVideos | \"14\"",
+      "Fight_for_This_Love | artist | Cheryl_(singer)",
+      "Fight_for_This_Love | album | 3_Words",
+      "Fight_for_This_Love | released | \"October 2009\"@en",
+      "3_Words | artist | Cheryl_(singer)",
+      "3_Words | certification | Platinum_record",
+      "3_Words | certification | Triple_platinum",
+      "3_Words | sales | \"1000000\"",
+      "3_Words_(song) | album | 3_Words",
+      "3_Words_(song) | artist | Cheryl_(singer)",
+      "3_Words_(song) | trackNo | \"1\"",
+      "3_Words_(song) | releaseDate | \"2009-12-20\"",
+      "3_Words_(song) | certification | Platinum_record",
+      "3_Words_(song) | certification | Gold_record",
+      "Parachute_(Cheryl_Cole_song) | album | 3_Words",
+      "Parachute_(Cheryl_Cole_song) | artist | Cheryl_(singer)",
+      "Parachute_(Cheryl_Cole_song) | releaseDate | \"2010-03-11\"",
+      "Parachute_(Cheryl_Cole_song) | nominatedFor | 2011_Brit_Awards",
+      "Heartbreaker_(will.i.am_song) | artist | Will.i.am",
+      "Heartbreaker_(will.i.am_song) | sales | \"250000\"",
+      "Heartbreaker_(will.i.am_song) | certification | Silver_record",
+      "Heartbreaker_(will.i.am_song) | yearEnd | \"31\"",
+      "Cheryl_(singer) | television | Passions_of_Girls_Aloud",
+      "Cheryl_(singer) | nationality | England"
+    ],
+    "cnt": 0
+  },
+  {
+    "custom_id": "7911_0",
+    "title": "Dennis Courtney",
+    "text": "Denis Beaulne (born April 30, 1958), better known by his stage name Dennis Courtney, is an American stage director, choreographer, actor and teacher of master classes in auditioning for the theatre. As a director, he is notable for winning the 2008 Israeli National Theatre Prize (Israel's TONY Award equivalent) for his work in the Cameri Theatre production of Fiddler On The Roof, in Tel Aviv. The production closed on January 27, 2016 after a near 8-year run. As an actor, he made his Broadway debut in the 1979 production of Peter Pan with Sandy Duncan and George Rose. Subsequent Broadway/National Tour/Production credits include Shenandoah with John Raitt (1984), Joseph And The Amazing Technicolor Dreamcoat (1984), Roza (1987) and Starlight Express (1989-1990). He directed and choreographed a production of My Way, for the Riverside Center Theatre in Virginia and It Shoulda Been You starring Kim Zimmer and for Gretna Theatre in July and August 2016. In early 2017, he directed and choreographed Kiss Me, Kate at Kent State. In March 2017 he directed the pre-Broadway workshop production of The Last Adam, a new musical by George Alex Livings and Jonathan Hickey. He has collaborated with playwright David Brian Colbert on a new play with music about the life of legendary performer, Ethel Waters, entitled . The play is currently in development.",
+    "input": [
+      "Dennis_Courtney | birthDate | 1958-04-30",
+      "Dennis_Courtney | nationality | United_States",
+      "Dennis_Courtney | occupation | Theatre_director",
+      "Dennis_Courtney | occupation | Choreographer",
+      "Dennis_Courtney | occupation | Actor",
+      "Dennis_Courtney | occupation | Teacher",
+      "Dennis_Courtney | birthName | Denis Beaulne",
+      "Dennis_Courtney | award | Israeli_Theater_Award",
+      "Dennis_Courtney | notableWork | Fiddler_on_the_Roof",
+      "Fiddler_on_the_Roof | director | Dennis_Courtney",
+      "Fiddler_on_the_Roof | choreographer | Dennis_Courtney",
+      "Cameri_Theater | location | Tel_Aviv",
+      "Peter_Pan_(1954_musical) | starring | Dennis_Courtney",
+      "Peter_Pan_(1954_musical) | starring | Sandy_Duncan",
+      "Peter_Pan_(1954_musical) | starring | George_Rose_(actor)",
+      "Shenandoah_(musical) | starring | Dennis_Courtney",
+      "Joseph_and_the_Amazing_Technicolor_Dreamcoat | starring | Dennis_Courtney",
+      "Roza_(musical) | starring | Dennis_Courtney",
+      "Starlight_Express | starring | Dennis_Courtney",
+      "My_Way_(musical) | director | Dennis_Courtney",
+      "My_Way_(musical) | choreographer | Dennis_Courtney",
+      "Riverside_Center_for_the_Performing_Arts | location | Virginia",
+      "It_Shoulda_Been_You | director | Dennis_Courtney",
+      "It_Shoulda_Been_You | starring | Kim_Zimmer",
+      "Kiss_Me,_Kate | director | Dennis_Courtney",
+      "Kiss_Me,_Kate | choreographer | Dennis_Courtney"
+    ],
+    "cnt": 1
+  },
+  {
+    "custom_id": "Dodgers–Yankees rivalry_21",
+    "title": "Dodgers–Yankees rivalry",
+    "text": "The Dodgers -- Yankees rivalry is a Major League Baseball (MLB) rivalry between the Los Angeles Dodgers and the New York Yankees. The Dodgers are a member club of the National League (NL) West division, and the Yankees are a member club of the American League (AL) East division. The rivalry between the Dodgers and Yankees is one of the most well - known rivalries in Major League Baseball. The two teams have met 11 times in the World Series, more times than any other pair of teams from the American and National Leagues. The initial significance was embodied in the two teams' proximity in New York City, when the Dodgers initially played in Brooklyn. After the Dodgers moved to Los Angeles in 1958, the rivalry retained its significance as the two teams represented the dominant cities on each coast of the United States, and since the 1980s, the two largest cities in the United States. The Dodgers currently lead the regular season series 7 - 6. Although the rivalry's significance arose from the two teams' numerous World Series meetings, the Yankees and Dodgers have not met in the World Series since 1981. They would not play each other in a non-exhibition game until 2004, when they played a 3 - game interleague series. Nevertheless, games between the two teams have become quite popular and draw sellout crowds.",
+    "input": [
+      "Dodgers%E2%80%93Yankees_rivalry | league | Major_League_Baseball",
+      "Dodgers%E2%80%93Yankees_rivalry | sport | Baseball",
+      "Dodgers%E2%80%93Yankees_rivalry | team1 | Los_Angeles_Dodgers",
+      "Dodgers%E2%80%93Yankees_rivalry | team2 | New_York_Yankees",
+      "Los_Angeles_Dodgers | league | National_League",
+      "New_York_Yankees | league | American_League",
+      "Los_Angeles_Dodgers | division | National_League_West",
+      "New_York_Yankees | division | American_League_East",
+      "Los_Angeles_Dodgers | location | Los_Angeles",
+      "New_York_Yankees | location | New_York_City",
+      "Los_Angeles_Dodgers | rival | New_York_Yankees",
+      "New_York_Yankees | rival | Los_Angeles_Dodgers",
+      "Brooklyn | isPartOf | New_York_City",
+      "National_League | parentOrganisation | Major_League_Baseball",
+      "American_League | parentOrganisation | Major_League_Baseball",
+      "World_Series | organiser | Major_League_Baseball",
+      "Los_Angeles | country | United_States",
+      "New_York_City | country | United_States",
+      "National_League_West | isPartOf | National_League",
+      "American_League_East | isPartOf | American_League"
+    ],
+    "cnt": 2
+  },
+  {
+    "custom_id": "History of the web browser_8",
+    "title": "History of the web browser",
+    "text": "However, the explosion in popularity of the Web was triggered by NCSA Mosaic which was a graphical browser running originally on Unix and soon ported to the Amiga and VMS platforms, and later the Apple Macintosh and Microsoft Windows platforms. Version 1.0 was released in September 1993, and was dubbed the killer application of the Internet. It was the first web browser to display images inline with the document's text. Prior browsers would display an icon that, when clicked, would download and open the graphic file in a helper application. This was an intentional design decision on both parts, as the graphics support in early browsers was intended for displaying charts and graphs associated with technical papers while the user scrolled to read the text, while Mosaic was trying to bring multimedia content to non-technical users. Mosaic and browsers derived from it had a user option to automatically display images inline or to show an icon for opening in external programs. Marc Andreessen, who was the leader of the Mosaic team at NCSA, quit to form a company that would later be known as Netscape Communications Corporation. Netscape released its flagship Navigator product in October 1994, and it took off the next year.",
+    "input": [
+      "Mosaic_(web_browser) | developer | National_Center_for_Supercomputing_Applications",
+      "Mosaic_(web_browser) | operatingSystem | Unix",
+      "Mosaic_(web_browser) | operatingSystem | AmigaOS",
+      "Mosaic_(web_browser) | operatingSystem | OpenVMS",
+      "Mosaic_(web_browser) | operatingSystem | Classic_Mac_OS",
+      "Mosaic_(web_browser) | operatingSystem | Microsoft_Windows",
+      "Mosaic_(web_browser) | userInterface | Graphical_user_interface",
+      "Mosaic_(web_browser) | releaseDate | September 1993",
+      "Mosaic_(web_browser) | genre | Web_browser",
+      "Mosaic_(web_browser) | influenced | Netscape_Navigator",
+      "Mosaic_(web_browser) | features | inline images",
+      "Netscape | product | Netscape_Navigator",
+      "Netscape_Navigator | developer | Netscape",
+      "Netscape_Navigator | publisher | Netscape",
+      "Netscape_Navigator | releaseDate | October 1994",
+      "Netscape | founder | Marc_Andreessen",
+      "Marc_Andreessen | employer | National_Center_for_Supercomputing_Applications",
+      "Marc_Andreessen | knownFor | Mosaic_(web_browser)"
+    ],
+    "cnt": 3
+  },
+  {
+    "custom_id": "8420_19",
+    "title": "SeaQuest DSV",
+    "text": "SeaQuest DSV (stylized as seaQuest DSV and also promoted as simply seaQuest) is an American science fiction television series created by Rockne S. O'Bannon. It originally aired on NBC between 1993 and 1996. In its final season, it was renamed seaQuest 2032. Set in \"the near future\"—originally the year 2018 in the first season—\"seaQuest DSV\" originally mixed high drama with realistic scientific fiction. It originally starred film star Roy Scheider as Captain Nathan Bridger, designer and commander of the eponymous naval submarine \"seaQuest\" DSV 4600. Jonathan Brandis also starred as Lucas Wolenczak, a teenaged computer genius placed aboard \"seaQuest\" by his father and Stephanie Beacham as Kristin Westphalen, the chief medical officer and head of the \"seaQuest\" science department. In the third season, Michael Ironside replaced Scheider as lead of the series and starred as Captain Oliver Hudson. Also present was a dolphin character called Darwin who, due to technological advances, was able to communicate with the crew. Steven Spielberg expressed interest in the project and served as one of the show's executive producers during the first two seasons.",
+    "input": [
+      "SeaQuest_DSV | creator | Rockne_S._O%27Bannon",
+      "SeaQuest_DSV | genre | Science_fiction",
+      "SeaQuest_DSV | country | United_States",
+      "SeaQuest_DSV | network | NBC",
+      "SeaQuest_DSV | starring | Roy_Scheider",
+      "SeaQuest_DSV | starring | Jonathan_Brandis",
+      "SeaQuest_DSV | starring | Stephanie_Beacham",
+      "SeaQuest_DSV | starring | Michael_Ironside",
+      "SeaQuest_DSV | executiveProducer | Steven_Spielberg",
+      "SeaQuest_DSV | firstAired | 1993",
+      "SeaQuest_DSV | lastAired | 1996",
+      "SeaQuest_DSV | altName | seaQuest DSV",
+      "SeaQuest_DSV | altName | seaQuest",
+      "SeaQuest_DSV | altName | seaQuest 2032"
+    ],
+    "cnt": 4
+  },
+  {
+    "custom_id": "Bharat Ratna_9",
+    "title": "Bharat Ratna",
+    "text": "The first recipients of the Bharat Ratna were politician C. Rajagopalachari, philosopher Sarvepalli Radhakrishnan, and scientist C.V. Raman, who were honoured in 1954. Since then, the award has been bestowed upon 45 individuals, including 12 who were awarded posthumously. The original statutes did not provide for posthumous awards but were amended in January 1955 to permit them. Former Prime Minister Lal Bahadur Shastri became the first individual to be honoured posthumously. In 2014, cricketer Sachin Tendulkar, then aged 40, became the youngest recipient; while social reformer Dhondo Keshav Karve was awarded on his 100th birthday. Though usually conferred on India - born citizens, the Bharat Ratna has been awarded to one naturalised citizen, Mother Teresa, and to two non-Indians, Pakistan national Khan Abdul Ghaffar Khan and former South African President Nelson Mandela. On 24 December 2014, the Indian government announced the award to independence activist Madan Mohan Malaviya (posthumously) and former Prime Minister Atal Bihari Vajpayee.",
+    "input": [
+      "C._Rajagopalachari | award | Bharat_Ratna",
+      "Sarvepalli_Radhakrishnan | award | Bharat_Ratna",
+      "C._V._Raman | award | Bharat_Ratna",
+      "Lal_Bahadur_Shastri | award | Bharat_Ratna",
+      "Sachin_Tendulkar | award | Bharat_Ratna",
+      "Dhondo_Keshav_Karve | award | Bharat_Ratna",
+      "Mother_Teresa | award | Bharat_Ratna",
+      "Abdul_Ghaffar_Khan | award | Bharat_Ratna",
+      "Nelson_Mandela | award | Bharat_Ratna",
+      "Madan_Mohan_Malaviya | award | Bharat_Ratna",
+      "Atal_Bihari_Vajpayee | award | Bharat_Ratna",
+      "Bharat_Ratna | awardedBy | Government_of_India",
+      "Bharat_Ratna | country | India",
+      "Lal_Bahadur_Shastri | office | Prime_Minister_of_India",
+      "Atal_Bihari_Vajpayee | office | Prime_Minister_of_India",
+      "Nelson_Mandela | office | President_of_South_Africa",
+      "Sachin_Tendulkar | occupation | Cricketer",
+      "Sarvepalli_Radhakrishnan | occupation | Philosopher",
+      "C._Rajagopalachari | occupation | Politician",
+      "C._V._Raman | occupation | Scientist",
+      "Abdul_Ghaffar_Khan | nationality | Pakistan",
+      "Nelson_Mandela | nationality | South_Africa",
+      "Mother_Teresa | nationality | India"
+    ],
+    "cnt": 5
+  },
+  {
+    "custom_id": "Presbyterianism_5",
+    "title": "Presbyterianism",
+    "text": "The roots of Presbyterianism lie in the European Reformation of the 16th century; the example of John Calvin's Geneva being particularly influential. Most Reformed churches which trace their history back to Scotland are either presbyterian or congregationalist in government. In the twentieth century, some Presbyterians played an important role in the ecumenical movement, including the World Council of Churches. Many Presbyterian denominations have found ways of working together with other Reformed denominations and Christians of other traditions, especially in the World Communion of Reformed Churches. Some Presbyterian churches have entered into unions with other churches, such as Congregationalists, Lutherans, Anglicans, and Methodists. Presbyterians in the United States came largely from Scotch-Irish immigrants communities, and also from New England Yankee communities that had originally been Congregational but changed because of an agreed-upon \"Plan of Union of 1801\" for frontier areas.",
+    "input": [
+      "Presbyterianism | influencedBy | Protestant_Reformation",
+      "Protestant_Reformation | century | 16th_century",
+      "John_Calvin | residence | Geneva",
+      "Presbyterianism | influencedBy | John_Calvin",
+      "Reformed_church | polity | Presbyterian_polity",
+      "Reformed_church | polity | Congregational_polity",
+      "World_Council_of_Churches | movement | Ecumenism",
+      "World_Communion_of_Reformed_Churches | movement | Ecumenism",
+      "World_Communion_of_Reformed_Churches | members | Reformed_church",
+      "Presbyterianism | mergedWith | Congregational_church",
+      "Presbyterianism | mergedWith | Lutheranism",
+      "Presbyterianism | mergedWith | Anglicanism",
+      "Presbyterianism | mergedWith | Methodism",
+      "Presbyterianism_in_the_United_States | ethnicity | Scotch-Irish_Americans",
+      "Presbyterianism_in_the_United_States | region | New_England",
+      "New_England | ethnicGroups | Yankee",
+      "Plan_of_Union_(1801) | year | 1801",
+      "Plan_of_Union_(1801) | region | American_frontier",
+      "Plan_of_Union_(1801) | parties | Presbyterianism",
+      "Plan_of_Union_(1801) | parties | Congregational_church",
+      "Ecumenism | participants | Presbyterianism"
+    ],
+    "cnt": 6
+  },
+  {
+    "custom_id": "6140_7",
+    "title": "Impatiens necrotic spot virus",
+    "text": "Impatiens necrotic spot virus (INSV) is a plant pathogenic virus of the family \"Bunyaviridae\". It was originally believed to be another strain of \"Tomato spotted wilt virus\" but genetic investigations revealed them to be separate viruses. It is a single stranded RNA It has a tripartate genome and is largely spread by the insect vector of the western flower thrips. The virus infects more than 648 species of plant including important horticultural and agricultural species such as fuchsia, tomato, orchids, and lettuce (especially romaine). As the name implies, the main symptom on plants is necrotic spots that appear on the leaves. The INSV virus infects by injecting the RNA the virus contains into the cell which then starts using the cell resources to transcribe what the virus RNA states. Viral infection can often result in the death of the plant. The disease is mainly controlled by the elimination of the western flower thrip vector and by destroying any infected plant material.",
+    "input": [
+      "Impatiens_necrotic_spot_virus | family | Bunyaviridae",
+      "Impatiens_necrotic_spot_virus | vector | Western_flower_thrips",
+      "Impatiens_necrotic_spot_virus | infects | Plant",
+      "Impatiens_necrotic_spot_virus | infects | Fuchsia",
+      "Impatiens_necrotic_spot_virus | infects | Tomato",
+      "Impatiens_necrotic_spot_virus | infects | Orchid",
+      "Impatiens_necrotic_spot_virus | infects | Lettuce",
+      "Impatiens_necrotic_spot_virus | infects | Romaine_lettuce",
+      "Impatiens_necrotic_spot_virus | symptoms | Leaf_spot",
+      "Impatiens_necrotic_spot_virus | genome | Single-stranded_RNA",
+      "Impatiens_necrotic_spot_virus | prevention | Vector_control",
+      "Impatiens_necrotic_spot_virus | treatment | Sanitation",
+      "Western_flower_thrips | classis | Insecta"
+    ],
+    "cnt": 7
+  },
+  {
+    "custom_id": "989_22",
+    "title": "Al-Ahsa Governorate",
+    "text": "Al Ahsa (Arabic: الأحساء‎ ‎ \" al-Aḥsāʾ\", locally pronounced \"al-Ḥasāʾ\") is the largest governorate in Saudi Arabia's Eastern Province, named after the Al-Ahsa oasis. The name Al-Ahsa is also given to the biggest city in the governorate, Hofuf. In Classical Arabic, Ahsa means the sound of water underground. It has one of the largest oases in the world with Date Palms known to be the best in the world, the oasis is located about 60 km inland from the Persian Gulf. All urban areas are located in the traditional oasis of Al-Hasa. In addition to the oasis, the county also includes the giant Empty Quarter desert, making it the largest governorate in Saudi Arabia in terms of area. The Empty Quarter has the world's largest oil fields and connects Saudi Arabia to Qatar, the UAE, and Oman. The Governorate's population is over 908,366 (2005 estimate ).In the past, Al-Ahsa belonged to the historical region known as Bahrain, along with Qatif and the present-day Bahrain islands.",
+    "input": [
+      "Al-Ahsa_Governorate | isPartOf | Eastern_Province,_Saudi_Arabia",
+      "Eastern_Province,_Saudi_Arabia | country | Saudi_Arabia",
+      "Al-Ahsa_Governorate | country | Saudi_Arabia",
+      "Al-Ahsa_Governorate | namedAfter | Al-Ahsa_Oasis",
+      "Hofuf | isPartOf | Al-Ahsa_Governorate",
+      "Al-Ahsa_Governorate | largestCity | Hofuf",
+      "Al-Ahsa_Governorate | hasPart | Al-Ahsa_Oasis",
+      "Al-Ahsa_Governorate | hasPart | Rub'_al_Khali",
+      "Hofuf | locatedInArea | Al-Ahsa_Oasis",
+      "Al-Ahsa_Oasis | locatedInArea | Eastern_Province,_Saudi_Arabia",
+      "Rub'_al_Khali | country | Saudi_Arabia",
+      "Rub'_al_Khali | country | Qatar",
+      "Rub'_al_Khali | country | United_Arab_Emirates",
+      "Rub'_al_Khali | country | Oman",
+      "Al-Ahsa_Oasis | country | Saudi_Arabia"
+    ],
+    "cnt": 8
+  },
+  {
+    "custom_id": "7975_23",
+    "title": "Wilson Defensive Player of the Year Award",
+    "text": "The Wilson Defensive Player of the Year Award is awarded annually to the best defensive player at each fielding position in Major League Baseball. One overall Defensive Player of the Year is also selected each year. Unlike the Rawlings Gold Glove Awards, which are voted on by major league managers and coaches, the Wilson Defensive Player of the Year Award winners are determined by statistics using sabermetrics. In 2012, the baseball glove manufacturer Wilson created the Defensive Player of the Year Award to honor the best defensive player on each team in Major League Baseball. One award winner was selected from each league as that league's overall Defensive Player of the Year. Starting in 2014, the awards are given to the best defensive player at each position, regardless of league, and the overall award is given to only one player, regardless of league. Also in 2014, a new award was created for the best Defensive Team of the Year, regardless of league.",
+    "input": [
+      "Wilson_Defensive_Player_of_the_Year_Award | creator | Wilson_Sporting_Goods",
+      "Wilson_Defensive_Player_of_the_Year_Award | league | Major_League_Baseball",
+      "Wilson_Defensive_Player_of_the_Year_Award | basedOn | Sabermetrics",
+      "Wilson_Sporting_Goods | product | Baseball_glove",
+      "Wilson_Defensive_Player_of_the_Year_Award | firstawarded | 2012",
+      "Wilson_Defensive_Player_of_the_Year_Award | awardedFor | best defensive player at each fielding position in Major League Baseball"
+    ],
+    "cnt": 9
+  },
+  {
+    "custom_id": "Kievan Rus'_2",
+    "title": "Kievan Rus'",
+    "text": "In the northeast, Slavs from the Kievan region colonized the territory that later would become the Grand Duchy of Moscow by subjugating and merging with the Finnic tribes already occupying the area. The city of Rostov, the oldest centre of the northeast, was supplanted first by Suzdal and then by the city of Vladimir, which become the capital of Vladimir-Suzdal'. The combined principality of Vladimir-Suzdal asserted itself as a major power in Kievan Rus' in the late 12th century. In 1169 Prince Andrey Bogolyubskiy of Vladimir-Suzdal sacked the city of Kiev and took over the title of the (Великий Князь/Velikiy Knyaz/Grand Prince or Grand Duke) to Vladimir, this way claiming the primacy in Rus'. Prince Andrey then installed his younger brother, who ruled briefly in Kiev while Andrey continued to rule his realm from Suzdal. In 1299, in the wake of the Mongol invasion, the metropolitan moved from Kiev to the city of Vladimir and Vladimir-Suzdal.",
+    "input": [
+      "Vladimir-Suzdal | capital | Vladimir,_Vladimir_Oblast",
+      "Vladimir-Suzdal | capital | Suzdal",
+      "Vladimir-Suzdal | capital | Rostov,_Yaroslavl_Oblast",
+      "Vladimir-Suzdal | partOf | Kievan_Rus%27",
+      "Sack_of_Kiev_(1169) | commander | Andrey_Bogolyubsky",
+      "Sack_of_Kiev_(1169) | place | Kiev",
+      "Andrey_Bogolyubsky | monarchOf | Vladimir-Suzdal",
+      "Andrey_Bogolyubsky | residence | Suzdal",
+      "Grand_Duchy_of_Moscow | predecessor | Vladimir-Suzdal",
+      "Mongol_invasion_of_Kievan_Rus%27 | place | Kievan_Rus%27"
+    ],
+    "cnt": 10
+  },
+  {
+    "custom_id": "2311_31",
+    "title": "M18 Hellcat",
+    "text": "The M18 Hellcat (officially designated the 76 mm Gun Motor Carriage M18 or M18 GMC) was an American tank destroyer of World War II, used in the Italian, European, and Pacific theatres, and in the Korean War. It was the fastest American tracked armored vehicle until the turboshaft-powered M1 Abrams main battle tank appeared decades later. Even then, most sources list the M1 Abrams with a top speed of only 45 (governed speed) mph, leaving the Hellcat with a superior paved-road top operating speed. The speed was attained by keeping armor to a minimum, no more than one inch thick and roofless, and by powering the relatively small vehicle with a radial engine originally designed for aircraft usage. The Hellcat, along with the M4 Sherman-based M10 tank destroyer and the highly effective, 90mm gun-armed M36 tank destroyer, provided American and Allied forces with a mobile anti-tank capability against the newer German armored types.",
+    "input": [
+      "M18_Hellcat | origin | United_States",
+      "M18_Hellcat | wars | World_War_II",
+      "M18_Hellcat | wars | Korean_War",
+      "M18_Hellcat | battles | Italian_campaign_(World_War_II)",
+      "M18_Hellcat | battles | European_theatre_of_World_War_II",
+      "M18_Hellcat | battles | Pacific_War",
+      "M18_Hellcat | engine | Radial_engine",
+      "M18_Hellcat | usedBy | United_States",
+      "M18_Hellcat | usedBy | Allies_of_World_War_II",
+      "M10_tank_destroyer | basedOn | M4_Sherman",
+      "M36_tank_destroyer | primaryArmament | 90_mm_Gun_M3",
+      "M1_Abrams | engine | Turboshaft"
+    ],
+    "cnt": 11
+  },
+  {
+    "custom_id": "9005_6",
+    "title": "Armed Forces Day (Poland)",
+    "text": "Armed Forces Day, known also as the Feast of the Polish Armed Forces (Polish: \"Święto Wojska Polskiego\" ), is a national holiday celebrated annually on 15 August in Poland, commemorating the anniversary of the 1920 victory over Soviet Russia at the Battle of Warsaw during the Polish–Soviet War. Armed Forces Day is held in conjunction with the Day of the Assumption of the Virgin Mary, itself a separate public holiday. The event is marked by military parades, equipment reviews, showcases and remembrances by all branches of the Polish Armed Forces across the country. One of the most prominent events of the day is in the capital Warsaw, which hosts a large military parade through the city's center. Originally celebrated during the Second Republic, the holiday was barred by authorities during the communist era beginning in 1947, only to be revived again in 1992.",
+    "input": [
+      "Armed_Forces_Day_(Poland) | date | August_15",
+      "Armed_Forces_Day_(Poland) | country | Poland",
+      "Armed_Forces_Day_(Poland) | observedby | Poland",
+      "Armed_Forces_Day_(Poland) | nativeName | Święto Wojska Polskiego",
+      "Armed_Forces_Day_(Poland) | alsoCalled | Feast of the Polish Armed Forces",
+      "Armed_Forces_Day_(Poland) | frequency | annual",
+      "Armed_Forces_Day_(Poland) | significance | Battle_of_Warsaw_(1920)",
+      "Armed_Forces_Day_(Poland) | relatedTo | Assumption_of_Mary",
+      "Armed_Forces_Day_(Poland) | celebrations | Military_parade",
+      "Armed_Forces_Day_(Poland) | location | Warsaw",
+      "Armed_Forces_Day_(Poland) | ended | 1947",
+      "Armed_Forces_Day_(Poland) | resumed | 1992",
+      "Poland | capital | Warsaw",
+      "Battle_of_Warsaw_(1920) | partOf | Polish%E2%80%93Soviet_War"
+    ],
+    "cnt": 12
+  },
+  {
+    "custom_id": "9487_3",
+    "title": "Managing the Details of an Undertaking",
+    "text": "Managing the Details of an Undertaking is a compilation CD and DVD package by the San Diego, California rock band Counterfit, released in 2007 by One Bad Landing Records. It was a posthumous release, as the group had disbanded in 2004. The CD portion of the release compiles rare, unreleased, and out-of-print songs from the band's career. The DVD portion includes a 76-minute documentary film of Counterfit's final tour from July 23 to September 15, 2004 in support of Finch and Recover. It also includes their entire farewell show, the music video for \"Better Late Than Never,\" band commentary, and over 40 minutes of additional live footage. The package's title is taken from the title of a song from the band's only full-length album \"Super Amusement Machine for Your Exciting Heart\".",
+    "input": [
+      "Managing_the_Details_of_an_Undertaking | artist | Counterfit_(band)",
+      "Managing_the_Details_of_an_Undertaking | recordLabel | One_Bad_Landing_Records",
+      "Counterfit_(band) | origin | San_Diego,_California",
+      "Counterfit_(band) | genre | Rock_music",
+      "Counterfit_(band) | associatedBand | Finch_(band)",
+      "Counterfit_(band) | associatedBand | Recover_(American_band)",
+      "Super_Amusement_Machine_for_Your_Exciting_Heart | artist | Counterfit_(band)",
+      "Managing_the_Details_of_an_Undertaking | basedOn | Super_Amusement_Machine_for_Your_Exciting_Heart",
+      "Managing_the_Details_of_an_Undertaking | format | Compact_disc",
+      "Managing_the_Details_of_an_Undertaking | format | DVD-Video"
+    ],
+    "cnt": 13
+  },
+  {
+    "custom_id": "History of Germany during World War I_20",
+    "title": "History of Germany during World War I",
+    "text": "During World War I, the German Empire was one of the Central Powers that lost the war. It began participation in the conflict after the declaration of war against Serbia by its ally, Austria - Hungary. German forces fought the Allies on both the eastern and western fronts, although German territory itself remained relatively safe from widespread invasion for most of the war, except for a brief period in 1914 when East Prussia was invaded. A tight blockade imposed by the Royal Navy caused severe food shortages in the cities, especially in the winter of 1916 -- 17, known as the Turnip Winter. At the end of the war, Germany's defeat and widespread popular discontent triggered the German Revolution of 1918 -- 19 which overthrew the monarchy and established the Weimar Republic.",
+    "input": [
+      "World_War_I | combatant | German_Empire",
+      "World_War_I | combatant | Allies_of_World_War_I",
+      "German_Empire | alliance | Central_Powers",
+      "Austria-Hungary | alliance | Central_Powers",
+      "Eastern_Front_(World_War_I) | combatant | German_Empire",
+      "Western_Front_(World_War_I) | combatant | German_Empire",
+      "Eastern_Front_(World_War_I) | combatant | Allies_of_World_War_I",
+      "Western_Front_(World_War_I) | combatant | Allies_of_World_War_I",
+      "East_Prussia | isPartOf | German_Empire",
+      "Turnip_Winter | country | German_Empire",
+      "Blockade_of_Germany_(1914–1919) | participant | Royal_Navy",
+      "German_Revolution_of_1918–1919 | causedBy | World_War_I",
+      "German_Revolution_of_1918–1919 | result | Weimar_Republic",
+      "German_Empire | governmentType | Monarchy"
+    ],
+    "cnt": 14
+  },
+  {
+    "custom_id": "Student loans in the United States_11",
+    "title": "Student loans in the United States",
+    "text": "United States Government - backed student loans were first offered in 1958 under the National Defense Education Act (NDEA), and were only available to select categories of students, such as those studying toward engineering, science, or education degrees. The student loan program, along with other parts of the Act, which subsidized college professor training, was established in response to the Soviet Union's launch of the Sputnik satellite, and a widespread perception that the United States was falling behind in science and technology, in the middle of the Cold War. Student loans were extended more broadly in the 1960s under the Higher Education Act of 1965, with the goal of encouraging greater social mobility and equality of opportunity.",
+    "input": [
+      "Student_loans_in_the_United_States | inception | \"1958\"",
+      "National_Defense_Education_Act | year | \"1958\"",
+      "National_Defense_Education_Act | purpose | Student_loan",
+      "Higher_Education_Act_of_1965 | year | \"1965\"",
+      "Higher_Education_Act_of_1965 | purpose | Social_mobility",
+      "Higher_Education_Act_of_1965 | purpose | Equality_of_opportunity",
+      "National_Defense_Education_Act | country | United_States",
+      "Higher_Education_Act_of_1965 | country | United_States",
+      "Student_loans_in_the_United_States | country | United_States"
+    ],
+    "cnt": 15
+  },
+  {
+    "custom_id": "6014_17",
+    "title": "2015 World Series",
+    "text": "The 2015 World Series was the 111th edition of Major League Baseball's championship series, a best-of-seven playoff between the National League (NL) champion New York Mets and the American League (AL) champion Kansas City Royals. The series was played between October 27 and November 1, with the Royals winning the series 4 games to 1. It was the first time since the 2010 World Series that the World Series extended into November. The Royals became the first team since the Oakland Athletics in the 1989 World Series to win the World Series after losing in the previous year. It was also the first World Series since the 2007 World Series to not feature the Philadelphia Phillies, St. Louis Cardinals, or San Francisco Giants as the NL champions.",
+    "input": [
+      "2015_World_Series | series | World_Series",
+      "2015_World_Series | champion | Kansas_City_Royals",
+      "2015_World_Series | runnerUp | New_York_Mets",
+      "2015_World_Series | startDate | \"2015-10-27\"",
+      "2015_World_Series | endDate | \"2015-11-01\"",
+      "2015_World_Series | format | \"best-of-seven\"@en",
+      "2015_World_Series | numberOfMatches | \"5\"",
+      "2015_World_Series | organiser | Major_League_Baseball",
+      "2015_World_Series | participant | Kansas_City_Royals",
+      "2015_World_Series | participant | New_York_Mets",
+      "New_York_Mets | league | National_League",
+      "Kansas_City_Royals | league | American_League",
+      "1989_World_Series | champion | Oakland_Athletics",
+      "2015_World_Series | number | \"111\"",
+      "2015_World_Series | year | \"2015\""
+    ],
+    "cnt": 16
+  },
+  {
+    "custom_id": "Triple Alliance (1882)_25",
+    "title": "Triple Alliance (1882)",
+    "text": "The Triple Alliance was a secret agreement between Germany, Austria - Hungary, and Italy. It was formed on 20 May 1882 and renewed periodically until it expired in 1915 during World War I. Germany and Austria - Hungary had been closely allied since 1879. Italy sought support against France shortly after it lost North African ambitions to the French. Each member promised mutual support in the event of an attack by any other great power. The treaty provided that Germany and Austria - Hungary were to assist Italy if it was attacked by France without provocation. In turn, Italy would assist Germany if attacked by France. In the event of a war between Austria - Hungary and Russia, Italy promised to remain neutral.",
+    "input": [
+      "Triple_Alliance_(1882) | signatory | Germany",
+      "Triple_Alliance_(1882) | signatory | Austria-Hungary",
+      "Triple_Alliance_(1882) | signatory | Italy",
+      "Triple_Alliance_(1882) | member | Germany",
+      "Triple_Alliance_(1882) | member | Austria-Hungary",
+      "Triple_Alliance_(1882) | member | Italy",
+      "Germany | ally | Austria-Hungary",
+      "Austria-Hungary | ally | Germany",
+      "Italy | ally | Germany",
+      "Germany | ally | Italy",
+      "Italy | ally | Austria-Hungary",
+      "Austria-Hungary | ally | Italy",
+      "Triple_Alliance_(1882) | startDate | \"1882-05-20\"",
+      "Triple_Alliance_(1882) | endDate | \"1915\""
+    ],
+    "cnt": 17
+  },
+  {
+    "custom_id": "3866_32",
+    "title": "George Tawengwa",
+    "text": "George Tawengwa (6 March 1915 – 13 April 1982) was the first black millionaire (in US dollars) in Zimbabwe, a prominent businessman who was engaged in transport, retail, hotel and agriculture industries. He was the owner of the Mushandirapamwe Hotel in Highfield, Harare and others. In 1960 he was the first black person to purchase a 1,872.0-hectare commercial farm (Zimdale farm in Marondera) from a white farmer, in the then colonial system by a racist white minority of Southern Rhodesia. To mark this historic milestone, Tawengwa and his wife Mabel were featured in a 1977 edition of the \"Rhodesia Herald\" (currently \"The Herald Zimbabwe\") as a prominent couple in the African business community.",
+    "input": [
+      "George_Tawengwa | birthDate | \"1915-03-06\"",
+      "George_Tawengwa | deathDate | \"1982-04-13\"",
+      "George_Tawengwa | occupation | Businessperson",
+      "George_Tawengwa | nationality | Zimbabwe",
+      "Mushandirapamwe_Hotel | owner | George_Tawengwa",
+      "Mushandirapamwe_Hotel | location | Highfield,_Harare",
+      "Mushandirapamwe_Hotel | city | Harare",
+      "Zimdale_Farm | owner | George_Tawengwa",
+      "Zimdale_Farm | location | Marondera",
+      "The_Herald_(Zimbabwe) | formerName | The_Rhodesia_Herald",
+      "George_Tawengwa | spouse | Mabel_Tawengwa",
+      "George_Tawengwa | knownFor | Mushandirapamwe_Hotel",
+      "George_Tawengwa | knownFor | Transport",
+      "George_Tawengwa | knownFor | Retail",
+      "George_Tawengwa | knownFor | Hotel",
+      "George_Tawengwa | knownFor | Agriculture"
+    ],
+    "cnt": 18
+  },
+  {
+    "custom_id": "Steven Spielberg_3",
+    "title": "Steven Spielberg",
+    "text": "According to Forbes' Most Influential Celebrities 2014 list, Spielberg was listed as the most influential celebrity in America. The annual list is conducted by E-Poll Market Research and it gave more than 6,600 celebrities on 46 different personality attributes a score representing \"how that person is perceived as influencing the public, their peers, or both.\" Spielberg received a score of 47, meaning 47% of the US believes he is influential. Gerry Philpott, president of E-Poll Market Research, supported Spielberg's score by stating, \"If anyone doubts that Steven Spielberg has greatly influenced the public, think about how many will think for a second before going into the water this summer.\"",
+    "input": [
+      "Forbes_Most_Influential_Celebrities_2014 | publisher | Forbes",
+      "Forbes_Most_Influential_Celebrities_2014 | author | E-Poll_Market_Research",
+      "Forbes_Most_Influential_Celebrities_2014 | country | United_States",
+      "Forbes_Most_Influential_Celebrities_2014 | year | 2014",
+      "Forbes_Most_Influential_Celebrities_2014 | title | Most Influential Celebrities 2014",
+      "Forbes_Most_Influential_Celebrities_2014 | genre | List_(information)",
+      "Steven_Spielberg | award | Most_Influential_Celebrity_in_America_2014",
+      "E-Poll_Market_Research | keyPerson | Gerry_Philpott",
+      "Gerry_Philpott | employer | E-Poll_Market_Research",
+      "Gerry_Philpott | occupation | President_(corporate_title)",
+      "Gerry_Philpott | quote | If anyone doubts that Steven Spielberg has greatly influenced the public, think about how many will think for a second before going into the water this summer."
+    ],
+    "cnt": 19
+  },
+  {
+    "gem_id": "web_nlg_en-train-35345",
+    "gem_parent_id": "web_nlg_en-train-35345",
+    "input": [
+      "Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education",
+      "All_India_Council_for_Technical_Education | location | Mumbai",
+      "Bangalore | founder | Kempe_Gowda_I",
+      "Acharya_Institute_of_Technology | city | Bangalore",
+      "Acharya_Institute_of_Technology | sportsOffered | Tennis",
+      "Tennis | sportGoverningBody | International_Tennis_Federation",
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University"
+    ],
+    "text": "Acharya Institute of Technology is located in Bangalore, the city that was established by Kempe Gowda. The Institute was given the 'Technical Campus' status by All India Council for Technical Education (which is located in Mumbai). Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and one of the sports offered at the campus is tennis, which has as its governing body The International Tennis Federation.",
+    "references": [],
+    "category": "University",
+    "webnlg_id": "train/University/7/Id26",
+    "cnt": 20
+  },
+  {
+    "gem_id": "web_nlg_en-train-35214",
+    "gem_parent_id": "web_nlg_en-train-35214",
+    "input": [
+      "Azerbaijan | capital | Baku",
+      "Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | dedicatedTo | \"Ottoman Army soldiers killed in the Battle of Baku\"",
+      "Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | nativeName | \"Türk Şehitleri Anıtı\"",
+      "Baku_Turkish_Martyrs'_Memorial | designer | \"Hüseyin Bütüner and Hilmi Güner\"",
+      "Azerbaijan | legislature | National_Assembly_(Azerbaijan)"
+    ],
+    "text": "The leader of Azerbaijan is called the Prime Minister of Azerbaijan. The capital of Azerbaijan is Baku. In Baku is the Baku Turkish Martyrs's Memorial located which was designed by Huseyin Butuner and Hilmi Guner. Turk Sehitleri Aniti is the native name for the Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The source of legislature in Azerbaijan is the National Assembly.",
+    "references": [],
+    "category": "Monument",
+    "webnlg_id": "train/Monument/7/Id8",
+    "cnt": 21
+  },
+  {
+    "gem_id": "web_nlg_en-train-33042",
+    "gem_parent_id": "web_nlg_en-train-33042",
+    "input": [
+      "Alvis_Speed_25 | modelStartYear | 1937",
+      "Alvis_Speed_25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"",
+      "Alvis_Speed_25 | wheelbase | 127.0 (inches)",
+      "Alvis_Speed_25 | class | \"Full-size luxury car\"",
+      "Alvis_Speed_25 | engine | 31.48 tax horsepower"
+    ],
+    "text": "1937 is when production started of the Alvis Speed 25 which is a full-size luxury vehicle. This vehicle has a wheelbase of 127 inches and a 31.48 tax hp engine. The Alvis Speed 25 has an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle\".",
+    "references": [],
+    "category": "MeanOfTransportation",
+    "webnlg_id": "train/MeanOfTransportation/5/Id56",
+    "cnt": 22
+  },
+  {
+    "gem_id": "web_nlg_en-train-30362",
+    "gem_parent_id": "web_nlg_en-train-30362",
+    "input": [
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine",
+      "Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed",
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | \"Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi\"",
+      "Andrew_Rayel | genre | Trance_music",
+      "Trance_music | stylisticOrigin | Pop_music"
+    ],
+    "text": "Andrew Rayel's musical genre is trance which originated from pop music. He has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi. and also with Jwaydan Moyine who is associated with the musical artist John Digweed.",
+    "references": [],
+    "category": "Artist",
+    "webnlg_id": "train/Artist/5/Id180",
+    "cnt": 23
+  },
+  {
+    "gem_id": "web_nlg_en-train-31594",
+    "gem_parent_id": "web_nlg_en-train-31594",
+    "input": [
+      "Albany,_Georgia | isPartOf | Georgia_(U.S._state)",
+      "United_States | leaderTitle | President_of_the_United_States",
+      "United_States | demonym | Americans",
+      "Albany,_Georgia | country | United_States",
+      "United_States | ethnicGroup | African_Americans"
+    ],
+    "text": "Albany is a city in Georgia, which is a state in the United States. Those who live in Georgia or any other state are known as Americans. African Americans are a specific group of people who live in the United States, this is known as an ethnic group. One past leader of the United States, known as the President of the United States, was an African American.",
+    "references": [],
+    "category": "City",
+    "webnlg_id": "train/City/5/Id16",
+    "cnt": 24
+  },
+  {
+    "gem_id": "web_nlg_en-train-29496",
+    "gem_parent_id": "web_nlg_en-train-29496",
+    "input": [
+      "Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force",
+      "United_States_Air_Force | battle | Invasion_of_Grenada",
+      "United_States_Air_Force | attackAircraft | Lockheed_AC-130",
+      "United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III",
+      "United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle"
+    ],
+    "text": "The United States Air Force is the operating organisation for Al Asad airbase, and the Lockheed AC-130 can be found on its aircraft carriers. The Boeing C-17 Globemaster III is a transport aircraft while the McDonnell Douglas F-15 Eagle is an aircraft fighter used by the USAF. The United States Air Force was involved in battles at the Invasion of Grenada.",
+    "references": [],
+    "category": "Airport",
+    "webnlg_id": "train/Airport/5/Id73",
+    "cnt": 25
+  },
+  {
+    "gem_id": "web_nlg_en-train-34428",
+    "gem_parent_id": "web_nlg_en-train-34428",
+    "input": [
+      "Alan_Shepard | almaMater | \"NWC, M.A. 1957\"",
+      "Alan_Shepard | occupation | Test_pilot",
+      "Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal",
+      "Alan_Shepard | deathPlace | California",
+      "Alan_Shepard | birthPlace | New_Hampshire",
+      "Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)"
+    ],
+    "text": "Alan Shepard was born in New Hampshire and died in California. He went to school at NWC and graduated with an MA in 1957, served as a Test pilot and was a crew member of the Apollo 14, which was operated by NASA. The United States Navy awarded the Distinguished Service Medal to Alan Shepard, which ranks higher than Department of Commerce Gold Medal.",
+    "references": [],
+    "category": "Astronaut",
+    "webnlg_id": "train/Astronaut/6/Id17",
+    "cnt": 26
+  },
+  {
+    "gem_id": "web_nlg_en-train-32510",
+    "gem_parent_id": "web_nlg_en-train-32510",
+    "input": [
+      "Bacon_sandwich | dishVariation | BLT",
+      "Bacon_sandwich | mainIngredient | \"Bread and bacon, with a condiment, often ketchup or brown sauce\"",
+      "Bacon_sandwich | country | United_Kingdom",
+      "Bacon_sandwich | alternativeName | \"Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin\"",
+      "Bacon_sandwich | ingredient | Bread"
+    ],
+    "text": "The bacon sandwich comes from the United Kingdom. Its main ingredients are bread and bacon and a condiment, often ketchup or brown sauce. It is known by several different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. The BLT is a variant of the bacon sandwich.",
+    "references": [],
+    "category": "Food",
+    "webnlg_id": "train/Food/5/Id83",
+    "cnt": 27
+  },
+  {
+    "gem_id": "web_nlg_en-train-35187",
+    "gem_parent_id": "web_nlg_en-train-35187",
+    "input": [
+      "Trane | location | Swords,_Dublin",
+      "Trane | foundingDate | 1913-01-01",
+      "Trane | location | Ireland",
+      "Trane | foundationPlace | La_Crosse,_Wisconsin",
+      "Trane | numberOfEmployees | 29000",
+      "Trane | product | HVAC",
+      "Trane | industry | Building_materials"
+    ],
+    "text": "Trane, Inc., an international company in the building materials industry, was founded in La Crosse, Wisconsin in 1913. Today 29,000 people are employed by Trane, whose corporate headquarters are located in Swords, Dublin, Ireland. Trane is best known for manufacturing heating, ventilating and air conditioning (HVAC) systems.",
+    "references": [],
+    "category": "Company",
+    "webnlg_id": "train/Company/7/Id7",
+    "cnt": 28
+  },
+  {
+    "gem_id": "web_nlg_en-train-31206",
+    "gem_parent_id": "web_nlg_en-train-31206",
+    "input": [
+      "Asilomar_Conference_Grounds | location | \"Asilomar Blvd., Pacific Grove, California\"",
+      "Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | \"1987-02-27\"",
+      "Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement",
+      "Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | \"87000823\"",
+      "Asilomar_Conference_Grounds | yearOfConstruction | 1913"
+    ],
+    "text": "The location of Asilomar Conference Grounds which were constructed in 1913 is Asilomar Blvd., Pacific Grove, California. They were added to the National Register of Historic Places on 27 February 1987 with the reference number \"87000823\", and were built in the Arts and Crafts Movement architectural style.",
+    "references": [],
+    "category": "Building",
+    "webnlg_id": "train/Building/5/Id111",
+    "cnt": 29
+  },
+  {
+    "gem_id": "web_nlg_en-train-33735",
+    "gem_parent_id": "web_nlg_en-train-33735",
+    "input": [
+      "Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill",
+      "Alfred_Moore_Scales | party | Democratic_Party_(United_States)",
+      "Alfred_Moore_Scales | successor | James_W._Reid_(politician)",
+      "Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina",
+      "Alfred_Moore_Scales | office | \"Governor of North Carolina\""
+    ],
+    "text": "Reidsville, North Carolina was the birthplace of Alfred Moore Scales, who was a member of the Democratic Party in the United States. his alma mater was the University of North Carolina at Chapel Hill. Alfred Moore Scales was Governor of North Carolina and was succeeded by the politician James W Reid.",
+    "references": [],
+    "category": "Politician",
+    "webnlg_id": "train/Politician/5/Id103",
+    "cnt": 30
+  },
+  {
+    "gem_id": "web_nlg_en-train-33924",
+    "gem_parent_id": "web_nlg_en-train-33924",
+    "input": [
+      "Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | country | Brazil",
+      "Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000",
+      "Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca",
+      "Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube"
+    ],
+    "text": "Agremiação Sportiva Arapiraquense, whose ground is Estádio Municipal Coaracy da Mata Fonseca, play in the Campeonato Brasileiro Série C league in Brazil. Agremiacao Sportiva Arapiraquense has 17000 members and Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.",
+    "references": [],
+    "category": "SportsTeam",
+    "webnlg_id": "train/SportsTeam/5/Id25",
+    "cnt": 31
+  },
+  {
+    "gem_id": "web_nlg_en-train-34160",
+    "gem_parent_id": "web_nlg_en-train-34160",
+    "input": [
+      "A_Fortress_of_Grey_Ice | language | English_language",
+      "English_language | spokenIn | Great_Britain",
+      "United_States | capital | Washington,_D.C.",
+      "A_Fortress_of_Grey_Ice | country | United_States",
+      "United_States | ethnicGroup | Native_Americans_in_the_United_States"
+    ],
+    "text": "The language of Great Britain is English, and this was used in the original publication of A Fortress of Grey Ice. The book is, however, from the United States where the capital city is Washington DC. The country is also where the Native Americans are known as an ethnic group.",
+    "references": [],
+    "category": "WrittenWork",
+    "webnlg_id": "train/WrittenWork/5/Id8",
+    "cnt": 32
+  },
+  {
+    "gem_id": "web_nlg_en-train-30891",
+    "gem_parent_id": "web_nlg_en-train-30891",
+    "input": [
+      "FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League",
+      "Aleksandr_Chumakov | club | FC_Torpedo_Moscow",
+      "Aleksandr_Chumakov | club | Soviet_Union_national_football_team",
+      "FC_Torpedo_Moscow | manager | Valery_Petrakov",
+      "FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov"
+    ],
+    "text": "Aleksandr Chumakov has played for FC Torpedo Moscow, whose chairman is Aleksandr Tukmanov. He was a member of the Soviet Union national football team and the FC Torpedo Moscow also participated in the 2014-15 Russian Premier League. The club is managed by Valery Petrakov.",
+    "references": [],
+    "category": "Athlete",
+    "webnlg_id": "train/Athlete/5/Id50",
+    "cnt": 33
+  },
+  {
+    "gem_id": "web_nlg_en-train-31512",
+    "gem_parent_id": "web_nlg_en-train-31512",
+    "input": [
+      "10_Hygiea | epoch | 2015-06-27",
+      "10_Hygiea | orbitalPeriod | 5.57 (days)",
+      "10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)",
+      "10_Hygiea | surfaceArea | 837080.744 (squareKilometres)",
+      "10_Hygiea | apoapsis | 523951582.33968 (kilometres)"
+    ],
+    "text": "The celestial body known as 10 Hygiea has a surface area of 837080.744 square km and takes 5.57 days to orbit. This asteroid's apoapsis is 523951582.33968 kilometres, and it has an escape velocity of 0.21 kilometres per second. It has an epoch date of 27th June 2015.",
+    "references": [],
+    "category": "CelestialBody",
+    "webnlg_id": "train/CelestialBody/5/Id75",
+    "cnt": 34
+  },
+  {
+    "gem_id": "web_nlg_en-train-32171",
+    "gem_parent_id": "web_nlg_en-train-32171",
+    "input": [
+      "Bananaman | broadcastedBy | BBC",
+      "Bananaman | creator | John_Geering",
+      "Bananaman | starring | Graeme_Garden",
+      "Bananaman | firstAired | \"1983-10-03\"",
+      "Bananaman | lastAired | \"1986-04-15\""
+    ],
+    "text": "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Bananaman last aired on 15th April 1986. Graeme Garden is one of the stars of the series which was created by John Geering.",
+    "references": [],
+    "category": "ComicsCharacter",
+    "webnlg_id": "train/ComicsCharacter/5/Id1",
+    "cnt": 35
+  },
+  {
+    "gem_id": "web_nlg_en-train-35307",
+    "gem_parent_id": "web_nlg_en-train-35307",
+    "input": [
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University",
+      "Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education",
+      "All_India_Council_for_Technical_Education | location | Mumbai",
+      "Bangalore | founder | Kempe_Gowda_I",
+      "Acharya_Institute_of_Technology | city | Bangalore",
+      "Karnataka | hasToItsWest | Arabian_Sea",
+      "Acharya_Institute_of_Technology | state | Karnataka"
+    ],
+    "text": "Karnataka state which is positioned with the Arabian Sea to its west is also home to the Acharya Institute of Technology, which is located in the city of Bangalore and was founded by Kempe Gowda. The institute has recently been given the 'Technical Campus' status by the All India Council for Technical Education which is based in Mumbai. The Acharya Institute of Technology also has connections with the Visvesvaraya Technological University.",
+    "references": [],
+    "category": "University",
+    "webnlg_id": "train/University/7/Id13",
+    "cnt": 36
+  },
+  {
+    "gem_id": "web_nlg_en-train-33043",
+    "gem_parent_id": "web_nlg_en-train-33043",
+    "input": [
+      "Alvis_Speed_25 | modelStartYear | 1937",
+      "Alvis_Speed_25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"",
+      "Alvis_Speed_25 | wheelbase | 127.0 (inches)",
+      "Alvis_Speed_25 | class | \"Full-size luxury car\"",
+      "Alvis_Speed_25 | engine | 31.48 tax horsepower"
+    ],
+    "text": "The Alvis Speed 25 is a full-size luxury vehicle which entered production in 1937. It features a 127 inch wheelbase, as well as an engine capable of producing 31.48 tax horsepower. Its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.",
+    "references": [],
+    "category": "MeanOfTransportation",
+    "webnlg_id": "train/MeanOfTransportation/5/Id56",
+    "cnt": 37
+  },
+  {
+    "gem_id": "web_nlg_en-train-35241",
+    "gem_parent_id": "web_nlg_en-train-35241",
+    "input": [
+      "Baku_Turkish_Martyrs'_Memorial | material | \"Red granite and white marble\"",
+      "Baku_Turkish_Martyrs'_Memorial | dedicatedTo | \"Ottoman Army soldiers killed in the Battle of Baku\"",
+      "Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | nativeName | \"Türk Şehitleri Anıtı\"",
+      "Azerbaijan | leader | Artur_Rasizade",
+      "Baku_Turkish_Martyrs'_Memorial | designer | \"Hüseyin Bütüner and Hilmi Güner\"",
+      "Azerbaijan | legislature | National_Assembly_(Azerbaijan)"
+    ],
+    "text": "The Baku Turkish Martyrs memorial, dedicated to the soldiers of the Ottoman army who died at the Battle of Baku was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The native name for the memorial which is located in the city of Baku, Azerbaijan, is Turk Sehitleri Aniti. Turkey is led by Artur Rasizade and the National Assembly is the legislature within the country.",
+    "references": [],
+    "category": "Monument",
+    "webnlg_id": "train/Monument/7/Id16",
+    "cnt": 38
+  },
+  {
+    "gem_id": "web_nlg_en-train-30361",
+    "gem_parent_id": "web_nlg_en-train-30361",
+    "input": [
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine",
+      "Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed",
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | \"Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi\"",
+      "Andrew_Rayel | genre | Trance_music",
+      "Trance_music | stylisticOrigin | Pop_music"
+    ],
+    "text": "Originating from Pop music, Trance music is the genre Andrew Rayel uses. He has been associated with a number of musical artists, such as the follow: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and John Digweed.",
+    "references": [],
+    "category": "Artist",
+    "webnlg_id": "train/Artist/5/Id180",
+    "cnt": 39
+  },
+  {
+    "gem_id": "web_nlg_en-train-29491",
+    "gem_parent_id": "web_nlg_en-train-29491",
+    "input": [
+      "Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force",
+      "United_States_Air_Force | battle | Invasion_of_Grenada",
+      "United_States_Air_Force | attackAircraft | Lockheed_AC-130",
+      "United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III",
+      "United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon"
+    ],
+    "text": "The United States Air Force is the operating organisation for \"Al Asad airbase\" and it has some transport aircraft like the \"Boeing C-17 Globemaster III\" and aircraft fighters like \"The General Dynamics F-16 Fighting Falcon\" & \"The Lockheed AC-130\" which is an attack aircraft. the Invasion of Grenada is One of the noted United States Air Force battles.",
+    "references": [],
+    "category": "Airport",
+    "webnlg_id": "train/Airport/5/Id72",
+    "cnt": 40
+  },
+  {
+    "gem_id": "web_nlg_en-train-32507",
+    "gem_parent_id": "web_nlg_en-train-32507",
+    "input": [
+      "Bacon_sandwich | dishVariation | BLT",
+      "Bacon_sandwich | mainIngredient | \"Bread and bacon, with a condiment, often ketchup or brown sauce\"",
+      "Bacon_sandwich | country | United_Kingdom",
+      "Bacon_sandwich | alternativeName | \"Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin\"",
+      "Bacon_sandwich | ingredient | Bacon"
+    ],
+    "text": "A variation of the BLT is a bacon sandwich which is popular in the UK. The main ingredients in a Bacon sandwich are bread and bacon with ketchup or brown sauce as a condiment. This sandwich can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.",
+    "references": [],
+    "category": "Food",
+    "webnlg_id": "train/Food/5/Id82",
+    "cnt": 41
+  },
+  {
+    "gem_id": "web_nlg_en-train-34996",
+    "gem_parent_id": "web_nlg_en-train-34996",
+    "input": [
+      "Alan_Shepard | almaMater | \"NWC, M.A. 1957\"",
+      "Alan_Shepard | selectedByNasa | 1959",
+      "Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal",
+      "Alan_Shepard | deathPlace | California",
+      "Alan_Shepard | birthPlace | New_Hampshire",
+      "Alan_Shepard | birthDate | \"1923-11-18\"",
+      "Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)"
+    ],
+    "text": "Alan Shepard was born November 18th, 1923, in New Hampshire. He attended school at NWC and graduated with an MA in 1957. Alan joined the Navy and was was chosen by NASA in 1959. He was awarded the Distinguished service medal, which is higher than the department of commerce gold medal. California was his place of death.",
+    "references": [],
+    "category": "Astronaut",
+    "webnlg_id": "train/Astronaut/7/Id27",
+    "cnt": 42
+  },
+  {
+    "gem_id": "web_nlg_en-train-24547",
+    "gem_parent_id": "web_nlg_en-train-24547",
+    "input": [
+      "Asilomar_Conference_Grounds | location | \"Asilomar Blvd., Pacific Grove, California\"",
+      "Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | \"87000823\"",
+      "Asilomar_Conference_Grounds | yearOfConstruction | 1913",
+      "Asilomar_Conference_Grounds | architecture | \"Arts and Crafts Movement and American craftsman Bungalows\""
+    ],
+    "text": "The location of Asilomar Conference Grounds constructed in 1913 is Asilomar Blvd., Pacific Grove, California. It has the reference number 87000823 in the National Register of Historic Places and was designed based on the architecture style of \"Arts and Crafts Movement and American craftsman Bungalows\".",
+    "references": [],
+    "category": "Building",
+    "webnlg_id": "train/Building/4/Id154",
+    "cnt": 43
+  },
+  {
+    "gem_id": "web_nlg_en-train-33777",
+    "gem_parent_id": "web_nlg_en-train-33777",
+    "input": [
+      "American_Civil_War | commander | Jefferson_Davis",
+      "Alfred_Moore_Scales | country | United_States",
+      "Alfred_Moore_Scales | battle | Battle_of_Gettysburg",
+      "United_States | ethnicGroup | African_Americans",
+      "Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War"
+    ],
+    "text": "African Americans are an ethnic group in the United States, the country where Alfred Moore Scales lived. One of the battles Alfred Moore Scales was involved in was the Battle of Gettysburg, which took place during the American Civil War. A commander in the American Civil War was Jefferson Davis.",
+    "references": [],
+    "category": "Politician",
+    "webnlg_id": "train/Politician/5/Id118",
+    "cnt": 44
+  },
+  {
+    "gem_id": "web_nlg_en-train-31724",
+    "gem_parent_id": "web_nlg_en-train-31724",
+    "input": [
+      "Anderson,_Indiana | isPartOf | Fall_Creek_Township,_Madison_County,_Indiana",
+      "Anderson_Township,_Madison_County,_Indiana | country | United_States",
+      "Anderson,_Indiana | isPartOf | Anderson_Township,_Madison_County,_Indiana",
+      "Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)",
+      "Anderson,_Indiana | areaTotal | 107.43 (square kilometres)"
+    ],
+    "text": "Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana which is in the United States. Anderson is part of Anderson Township, Madison County, Indiana and their population density is 523.9 inhabitants per square kilometre but their total area is 107.43 square kilometres.",
+    "references": [],
+    "category": "City",
+    "webnlg_id": "train/City/5/Id64",
+    "cnt": 45
+  },
+  {
+    "gem_id": "web_nlg_en-train-34637",
+    "gem_parent_id": "web_nlg_en-train-34637",
+    "input": [
+      "Trane | netIncome | 556300000",
+      "Trane | operatingIncome | 875400000",
+      "Trane | foundingDate | 1913-01-01",
+      "Trane | foundationPlace | La_Crosse,_Wisconsin",
+      "Trane | numberOfEmployees | 29000",
+      "Trane | product | HVAC"
+    ],
+    "text": "Trane is a company which was founded on 1913-01-01 in La Crosse, Wisconsin. The company employs 29000 people, and HVAC appliances are among the products manufactured by them. Trane has an operating income of 875.4 million USD, which equates to a net income of about $556 million.",
+    "references": [],
+    "category": "Company",
+    "webnlg_id": "train/Company/6/Id13",
+    "cnt": 46
+  },
+  {
+    "gem_id": "web_nlg_en-train-34256",
+    "gem_parent_id": "web_nlg_en-train-34256",
+    "input": [
+      "English_language | spokenIn | Great_Britain",
+      "United_States | capital | Washington,_D.C.",
+      "United_States | language | English_language",
+      "Alcatraz_Versus_the_Evil_Librarians | country | United_States",
+      "United_States | ethnicGroup | Native_Americans_in_the_United_States"
+    ],
+    "text": "The United States, whose capital is Washington D.C., is home to Native Americans, only one of the many ethnic groups in residence. English is spoken in the United States, like in Britain, the language in which the American book Alcatraz Versus the Evil Librarians is written.",
+    "references": [],
+    "category": "WrittenWork",
+    "webnlg_id": "train/WrittenWork/5/Id46",
+    "cnt": 47
+  },
+  {
+    "gem_id": "web_nlg_en-train-30928",
+    "gem_parent_id": "web_nlg_en-train-30928",
+    "input": [
+      "Peñarol | league | Uruguayan_Primera_División",
+      "Abel_Hernández | youthclub | Peñarol",
+      "U.S._Città_di_Palermo | manager | Giuseppe_Iachini",
+      "Abel_Hernández | club | Uruguay_national_football_team",
+      "Abel_Hernández | club | U.S._Città_di_Palermo"
+    ],
+    "text": "Abel Hernández was part of the youth club Peñarol that participates in the Uruguayan Primera División. Abel Hernández also plays with the U.S. Città di Palermo club which is in the Uruguay National football team. The Palermo club is managed by Giuseppe Iachini.",
+    "references": [],
+    "category": "Athlete",
+    "webnlg_id": "train/Athlete/5/Id63",
+    "cnt": 48
+  },
+  {
+    "gem_id": "web_nlg_en-train-31317",
+    "gem_parent_id": "web_nlg_en-train-31317",
+    "input": [
+      "(15788)_1993_SB | epoch | 2006-03-06",
+      "(15788)_1993_SB | orbitalPeriod | 7729430000.0",
+      "(15788)_1993_SB | periapsis | 3997100000000.0",
+      "(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)",
+      "(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory"
+    ],
+    "text": "The celestial body known as (15788) 1993 SB has a periapsis of 3997100000000 and an apoapsis of 7715100000.0 (kilometres). Discovered by Roque de los Muchachos Observatory, (15788) 1993 SB has an orbital periodd of 7729430000.0 and its epoch is 6th March 2006.",
+    "references": [],
+    "category": "CelestialBody",
+    "webnlg_id": "train/CelestialBody/5/Id3",
+    "cnt": 49
+  },
+  {
+    "gem_id": "web_nlg_en-train-33926",
+    "gem_parent_id": "web_nlg_en-train-33926",
+    "input": [
+      "Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | country | Brazil",
+      "Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000",
+      "Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca",
+      "Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube"
+    ],
+    "text": "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca.",
+    "references": [],
+    "category": "SportsTeam",
+    "webnlg_id": "train/SportsTeam/5/Id25",
+    "cnt": 50
+  },
+  {
+    "gem_id": "web_nlg_en-train-32188",
+    "gem_parent_id": "web_nlg_en-train-32188",
+    "input": [
+      "Bananaman | starring | Tim_Brooke-Taylor",
+      "Bananaman | broadcastedBy | BBC",
+      "Bananaman | creator | Steve_Bright",
+      "Bananaman | firstAired | \"1983-10-03\"",
+      "Bananaman | lastAired | \"1986-04-15\""
+    ],
+    "text": "The BBC began broadcasting Bananaman on 10/03/1983 and its last episode went to air on April 15th, 1986. Steve Bright is one of the creators of Bananaman which has Tim Brooke-Taylor as one of its stars.",
+    "references": [],
+    "category": "ComicsCharacter",
+    "webnlg_id": "train/ComicsCharacter/5/Id7",
+    "cnt": 51
+  },
+  {
+    "gem_id": "web_nlg_en-train-34860",
+    "gem_parent_id": "web_nlg_en-train-34860",
+    "input": [
+      "Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education",
+      "All_India_Council_for_Technical_Education | location | Mumbai",
+      "Karnataka | hasToItsNortheast | Telangana",
+      "Visvesvaraya_Technological_University | city | Belgaum",
+      "Acharya_Institute_of_Technology | state | Karnataka",
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University"
+    ],
+    "text": "Acharya Institute of Technology in the state of Karnataka, is affiliated with Visvesvaraya Technological University. The school was given Technical Campus' status by All India Council for Technical Education. While the All India Council for Technical Education is in Mumbai, Visvesvaraya Technological University is in Belgaum and Acharya Institute of Technology is in the state of Karnataka which has Telangana to its northeast.",
+    "references": [],
+    "category": "University",
+    "webnlg_id": "train/University/6/Id41",
+    "cnt": 52
+  },
+  {
+    "gem_id": "web_nlg_en-train-33037",
+    "gem_parent_id": "web_nlg_en-train-33037",
+    "input": [
+      "Alvis_Speed_25 | class | Full-size_car",
+      "Alvis_Speed_25 | modelStartYear | 1937",
+      "Alvis_Speed_25 | wheelbase | 127.0 (inches)",
+      "Alvis_Speed_25 | engine | 31.48 tax horsepower",
+      "Alvis_Speed_25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\""
+    ],
+    "text": "The Alvis Speed 25 was first manufactured in 1937, and is classed as a Full-size car. It has a wheelbase of 127 inches, and an engine capable of producing 31.48 tax horsepower. The transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and a spiral bevel fully floating back axle.",
+    "references": [],
+    "category": "MeanOfTransportation",
+    "webnlg_id": "train/MeanOfTransportation/5/Id54",
+    "cnt": 53
+  },
+  {
+    "gem_id": "web_nlg_en-train-35216",
+    "gem_parent_id": "web_nlg_en-train-35216",
+    "input": [
+      "Azerbaijan | capital | Baku",
+      "Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | dedicatedTo | \"Ottoman Army soldiers killed in the Battle of Baku\"",
+      "Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | nativeName | \"Türk Şehitleri Anıtı\"",
+      "Baku_Turkish_Martyrs'_Memorial | designer | \"Hüseyin Bütüner and Hilmi Güner\"",
+      "Azerbaijan | legislature | National_Assembly_(Azerbaijan)"
+    ],
+    "text": "The Azerbijan leader is the Prime Minister of Azerbaijan and it has a legislature called the Azerbaijan National Assembly. Baku is the capital of Azerbaijan. In Baku there is a Turkish Martyrs' Memorial dedicated to the soldiers killed in the Battle of Baku. The original name of the monument is Turk Sehitleri Aniti. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.",
+    "references": [],
+    "category": "Monument",
+    "webnlg_id": "train/Monument/7/Id8",
+    "cnt": 54
+  },
+  {
+    "gem_id": "web_nlg_en-train-30074",
+    "gem_parent_id": "web_nlg_en-train-30074",
+    "input": [
+      "Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač",
+      "Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač",
+      "Aleksandra_Kovač | background | \"solo_singer\"",
+      "Aleksandra_Kovač | genre | Pop_music",
+      "Pop_music | musicFusionGenre | Disco"
+    ],
+    "text": "Musical Artist, Aleksandra Kovač, who is associated with fellow musical artist Kristina Kovač, is in same band with Kornelije Kovač. Aleksandra Kovač's has a background of solo singing, and her musical genre is pop music. Disco is a genre of music that contain elements of other genres such as pop music and therefore can be considered a fusion genre.",
+    "references": [],
+    "category": "Artist",
+    "webnlg_id": "train/Artist/5/Id84",
+    "cnt": 55
+  },
+  {
+    "gem_id": "web_nlg_en-train-29495",
+    "gem_parent_id": "web_nlg_en-train-29495",
+    "input": [
+      "Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force",
+      "United_States_Air_Force | battle | Invasion_of_Grenada",
+      "United_States_Air_Force | attackAircraft | Lockheed_AC-130",
+      "United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III",
+      "United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle"
+    ],
+    "text": "The United States Air force operates the Al Asad Airbase. The United States Air Force was involved in the battle of the Invasion of Grenada. The Lockheed AC-130 can be found on the USAF aircraft carriers. The Boeing C-17 Globemaster III is a transport plane owned by the air force and they own the fighter McDonnell Douglas F-15 Eagle.",
+    "references": [],
+    "category": "Airport",
+    "webnlg_id": "train/Airport/5/Id73",
+    "cnt": 56
+  },
+  {
+    "gem_id": "web_nlg_en-train-32508",
+    "gem_parent_id": "web_nlg_en-train-32508",
+    "input": [
+      "Bacon_sandwich | dishVariation | BLT",
+      "Bacon_sandwich | mainIngredient | \"Bread and bacon, with a condiment, often ketchup or brown sauce\"",
+      "Bacon_sandwich | country | United_Kingdom",
+      "Bacon_sandwich | alternativeName | \"Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin\"",
+      "Bacon_sandwich | ingredient | Bacon"
+    ],
+    "text": "The United Kingdom is home to the bacon sandwich which has the main ingredients bread and bacon and a condiment, often ketchup or brown sauce. A variation of the bacon sandwich, which is also known as bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin is the BLT.",
+    "references": [],
+    "category": "Food",
+    "webnlg_id": "train/Food/5/Id82",
+    "cnt": 57
+  },
+  {
+    "gem_id": "web_nlg_en-train-35133",
+    "gem_parent_id": "web_nlg_en-train-35133",
+    "input": [
+      "William_Anders | dateOfRetirement | \"1969-09-01\"",
+      "William_Anders | occupation | Fighter_pilot",
+      "Apollo_8 | commander | Frank_Borman",
+      "William_Anders | mission | Apollo_8",
+      "William_Anders | birthPlace | British_Hong_Kong",
+      "Apollo_8 | backupPilot | Buzz_Aldrin",
+      "Apollo_8 | operator | NASA"
+    ],
+    "text": "William Anders, Buzz Aldrin, and Frank Borman all worked for NASA, and they were all members of the Apollo 8 team, which is operated by NASA. William, who was born in British Hong Kong, was a fighter pilot. William retired on September 1, 1969. Buzz Aldrin was the backup pilot. Frank Borman was the Apollo 8 commander.",
+    "references": [],
+    "category": "Astronaut",
+    "webnlg_id": "train/Astronaut/7/Id78",
+    "cnt": 58
+  },
+  {
+    "gem_id": "web_nlg_en-train-31173",
+    "gem_parent_id": "web_nlg_en-train-31173",
+    "input": [
+      "Ampara_Hospital | country | Sri_Lanka",
+      "Ampara_Hospital | state | Eastern_Province,_Sri_Lanka",
+      "Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council",
+      "Eastern_Province,_Sri_Lanka | leader | Austin_Fernando",
+      "Sri_Lanka | capital | Sri_Jayawardenepura_Kotte"
+    ],
+    "text": "Ampara Hospital is in Sri Lanka and is situated in the Eastern Province state of Sri Lanka. Austin Fernando is the leader of the Eastern Province of Sri Lanka and the Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.",
+    "references": [],
+    "category": "Building",
+    "webnlg_id": "train/Building/5/Id97",
+    "cnt": 59
+  },
+  {
+    "gem_id": "web_nlg_en-train-33454",
+    "gem_parent_id": "web_nlg_en-train-33454",
+    "input": [
+      "Abdul_Taib_Mahmud | almaMater | University_of_Adelaide",
+      "Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu",
+      "Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak",
+      "Abdul_Taib_Mahmud | residence | \"Demak Jaya, Jalan Bako, Kuching, Sarawak\"",
+      "Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub"
+    ],
+    "text": "The University of Adelaide is the alma mater of Abdul Taib Mahmud, who was born in the Kingdom of Sarawak. Abdul Taib Mahmud's party is the Parti Pesaka Bumiputera Bersatu and his residence is Demak Jaya, Jalan Bako, Kuching, Sarawak. The successor of Abdul Taib Mahmud was Abdul Rahman Ya'kub.",
+    "references": [],
+    "category": "Politician",
+    "webnlg_id": "train/Politician/5/Id6",
+    "cnt": 60
+  },
+  {
+    "gem_id": "web_nlg_en-train-31601",
+    "gem_parent_id": "web_nlg_en-train-31601",
+    "input": [
+      "Albuquerque,_New_Mexico | areaCode | 505, 575",
+      "Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)",
+      "Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)",
+      "Albuquerque,_New_Mexico | isPartOf | Bernalillo_County,_New_Mexico",
+      "Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)"
+    ],
+    "text": "Albuquerque is part of Bernalillo County, New Mexico, and has a land area of 486.2 square kilometers. The total area of Albuquerque, New Mexico is 490.9 square kilometres. This city, has a population density of 1142.3 people per square kilometers and the area codes are, 505 and 575.",
+    "references": [],
+    "category": "City",
+    "webnlg_id": "train/City/5/Id19",
+    "cnt": 61
+  },
+  {
+    "gem_id": "web_nlg_en-train-34221",
+    "gem_parent_id": "web_nlg_en-train-34221",
+    "input": [
+      "Administrative_Science_Quarterly | publisher | Cornell_University",
+      "Cornell_University | nickname | Cornell_Big_Red",
+      "Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities",
+      "Cornell_University | affiliation | Association_of_American_Universities",
+      "Cornell_University | city | Ithaca,_New_York"
+    ],
+    "text": "Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. Its nickname is Cornell Big Red.",
+    "references": [],
+    "category": "WrittenWork",
+    "webnlg_id": "train/WrittenWork/5/Id32",
+    "cnt": 62
+  },
+  {
+    "gem_id": "web_nlg_en-train-31338",
+    "gem_parent_id": "web_nlg_en-train-31338",
+    "input": [
+      "(66063)_1998_RO1 | discoverer | Lincoln_Near-Earth_Asteroid_Research",
+      "(66063)_1998_RO1 | epoch | 2013-11-04",
+      "(66063)_1998_RO1 | formerName | \"1999 SN5\"",
+      "(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)",
+      "(66063)_1998_RO1 | periapsis | 41498400000.0"
+    ],
+    "text": "The celestial body known as (66063) 1998 RO1, which has an epoch date of 4 November 2013, was formerly called 1999 SN5 and was discovered by Lincoln Near-Earth Asteroid Research. It has a periapsis measuring 41498400000.0 and an orbital period of 360.29 days.",
+    "references": [],
+    "category": "CelestialBody",
+    "webnlg_id": "train/CelestialBody/5/Id11",
+    "cnt": 63
+  },
+  {
+    "gem_id": "web_nlg_en-train-34601",
+    "gem_parent_id": "web_nlg_en-train-34601",
+    "input": [
+      "AmeriGas | regionServed | United_States",
+      "AmeriGas | city | King_of_Prussia,_Pennsylvania",
+      "AmeriGas | operatingIncome | 380700000",
+      "AmeriGas | industry | Energy_industry",
+      "AmeriGas | country | United_States",
+      "AmeriGas | foundingDate | 1959-01-01"
+    ],
+    "text": "Serving all regions of the United States, AmeriGas is located in the city of King of Prussia, Pennsylvania in the United States. Founded on January 1, 1959, and focused in the energy industry, Amerigas currently has earned an operating income of $380,700,000.",
+    "references": [],
+    "category": "Company",
+    "webnlg_id": "train/Company/6/Id1",
+    "cnt": 64
+  },
+  {
+    "gem_id": "web_nlg_en-train-30858",
+    "gem_parent_id": "web_nlg_en-train-30858",
+    "input": [
+      "Alessio_Romagnoli | currentclub | A.C._Milan",
+      "A.C._Milan | manager | Siniša_Mihajlović",
+      "A.C._Milan | chairman | Silvio_Berlusconi",
+      "Alessio_Romagnoli | club | Italy_national_under-19_football_team",
+      "Alessio_Romagnoli | club | U.C._Sampdoria"
+    ],
+    "text": "Alessio Romagnoli, who had played for the Italian national under - 19 football team, is currently an A.C Milan player and he is also connected to UC Sampdoria. Silvio Berlusconi is the chairman of A.C. Milan and the team is managed by Sinisa Mihajlovic.",
+    "references": [],
+    "category": "Athlete",
+    "webnlg_id": "train/Athlete/5/Id39",
+    "cnt": 65
+  },
+  {
+    "gem_id": "web_nlg_en-train-33925",
+    "gem_parent_id": "web_nlg_en-train-33925",
+    "input": [
+      "Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | country | Brazil",
+      "Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000",
+      "Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca",
+      "Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube"
+    ],
+    "text": "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, it has 17000 members and play in the Campeonato Brasileiro Série C league, which is based in Brazil and the current champions are Vila Nova Futebol Clube.",
+    "references": [],
+    "category": "SportsTeam",
+    "webnlg_id": "train/SportsTeam/5/Id25",
+    "cnt": 66
+  },
+  {
+    "gem_id": "web_nlg_en-train-32172",
+    "gem_parent_id": "web_nlg_en-train-32172",
+    "input": [
+      "Bananaman | broadcastedBy | BBC",
+      "Bananaman | creator | John_Geering",
+      "Bananaman | starring | Graeme_Garden",
+      "Bananaman | firstAired | \"1983-10-03\"",
+      "Bananaman | lastAired | \"1986-04-15\""
+    ],
+    "text": "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The fictional comic superhero Bananaman was created by John Geering and stars Graeme Garden.",
+    "references": [],
+    "category": "ComicsCharacter",
+    "webnlg_id": "train/ComicsCharacter/5/Id1",
+    "cnt": 67
+  },
+  {
+    "gem_id": "web_nlg_en-train-35311",
+    "gem_parent_id": "web_nlg_en-train-35311",
+    "input": [
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University",
+      "Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education",
+      "All_India_Council_for_Technical_Education | location | Mumbai",
+      "Karnataka | hasToItsNortheast | Telangana",
+      "Visvesvaraya_Technological_University | city | Belgaum",
+      "Karnataka | hasToItsWest | Arabian_Sea",
+      "Acharya_Institute_of_Technology | state | Karnataka"
+    ],
+    "text": "The state of Karnataka is located to the southwest of Telangana, and east of the Arabian Sea. The Acharya Institute of Technology, located within Karnataka, is affiliated with the Visvesvaraya Technological University, which is located in the city of Belgaum. The Acharya Institute of Technology was granted the 'Technical Campus' status by the All India Council for Technical Education, which is located in Mumbai.",
+    "references": [],
+    "category": "University",
+    "webnlg_id": "train/University/7/Id14",
+    "cnt": 68
+  },
+  {
+    "gem_id": "web_nlg_en-train-33039",
+    "gem_parent_id": "web_nlg_en-train-33039",
+    "input": [
+      "Alvis_Speed_25 | engine | Straight-six_engine",
+      "Alvis_Speed_25 | modelStartYear | 1937",
+      "Alvis_Speed_25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"",
+      "Alvis_Speed_25 | wheelbase | 127.0 (inches)",
+      "Alvis_Speed_25 | class | \"Full-size luxury car\""
+    ],
+    "text": "!937 is when prodction began of the Alvis Speed 25, a full-size luxury vehicle. It has a wheelbase of 127 inches and a straight-six engine. The Alvis Speed 25 has an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle\".",
+    "references": [],
+    "category": "MeanOfTransportation",
+    "webnlg_id": "train/MeanOfTransportation/5/Id55",
+    "cnt": 69
+  }
+]

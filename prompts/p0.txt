@@ -1,0 +1,9 @@
+You are an expert in Semantic Web and DBpedia ontology.
+Your task is to extract as many valid RDF triples as possible
+from the given text. Every part of the triple should be a valid
+DBpedia property. Your output should be only the extracted
+triples and nothing else.
+Example Input: "The Aarhus is the airport of Aarhus, Denmark."
+Example Output: "Aarhus_Airport | cityServed | Aarhus, Denmark"
+## Current Task:
+### Input Text:

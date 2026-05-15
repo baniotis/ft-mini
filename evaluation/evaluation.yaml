@@ -1,0 +1,35 @@
+# Evaluation config (used by `evaluation/run_evaluation_yaml.py`)
+#
+# REQUIRED/EDIT these keys:
+# - `input_batch_output_jsonl`: batch output JSONL produced by OpenAI (must already exist)
+# - `ground_truth_json`: ground-truth dataset JSON (expects `row_idx` + `triples`)
+# - `output_predictions_json`: intermediate formatted predictions JSON path
+# - `output_clean_predictions_json`: cleaned (de-duplicated) predictions JSON path
+# - `output_report_json`: where to write the final precision/recall/F1 + report
+#
+# Note: all paths are resolved relative to the repository root.
+
+# Expected shape notes (important):
+# - `input_batch_output_jsonl` must be the JSONL you get back from an OpenAI *batch* run.
+#   Each line should be a JSON object with at least:
+#     - `custom_id`
+#     - `response.body.choices[0].message.content` (string containing Turtle triples)
+# - `ground_truth_json` must be one of the dataset files in `datasets/` (e.g. `gt_text_hotmusvalid.json`).
+#   Each item contains:
+#     - `row_idx`
+#     - `triples`: list of strings formatted like: `subject , predicate , object`
+
+# Edit these paths before running.
+#
+# Paths are resolved relative to the repository root.
+input_batch_output_jsonl: batch_outputs/input_batch_output.jsonl
+output_predictions_json: batch_outputs/output_predictions.json
+output_clean_predictions_json: batch_outputs/output_predictions_clean.json
+
+# Ground truth must be a JSON file shaped like datasets/gt_text_*.json:
+#   - each item has { row_idx, triples: [ ... ] }
+ground_truth_json: datasets/gt_text_hotmusvalid.json
+
+# Report output (written by evaluation/evaluation.py)
+output_report_json: evaluation_report.json
+

@@ -1,0 +1,628 @@
+[
+  {
+    "custom_id": "Paddington (film)_49",
+    "title": "Paddington (film)",
+    "text": "Paddington is a 2014 live - action animated comedy film written and directed by Paul King from a story by King and Hamish McColl and produced by David Heyman. Based on the stories of the character Paddington Bear created by Michael Bond, the film stars Ben Whishaw as the voice of the title character, with Hugh Bonneville, Sally Hawkins, Julie Walters, Jim Broadbent, Peter Capaldi, and Nicole Kidman in live - action roles. The film tells the story of the eponymous character Paddington, an anthropomorphic bear who migrates from the jungles of Peru to the streets of London, where he is adopted by the Brown family. Kidman plays the role of a taxidermist, who attempts to add him to her collection.",
+    "input": [
+      "Paddington_(film) | director | Paul_King_(director)",
+      "Paddington_(film) | writer | Paul_King_(director)",
+      "Paddington_(film) | producer | David_Heyman",
+      "Paddington_(film) | basedOn | Paddington_Bear",
+      "Paddington_(film) | starring | Ben_Whishaw",
+      "Paddington_(film) | starring | Hugh_Bonneville",
+      "Paddington_(film) | starring | Sally_Hawkins",
+      "Paddington_(film) | starring | Julie_Walters",
+      "Paddington_(film) | starring | Jim_Broadbent",
+      "Paddington_(film) | starring | Peter_Capaldi",
+      "Paddington_(film) | starring | Nicole_Kidman",
+      "Paddington_(film) | voiceActor | Ben_Whishaw",
+      "Paddington_Bear | creator | Michael_Bond",
+      "Paddington_(film) | character | Paddington_Bear",
+      "Paddington_(film) | genre | Comedy_film",
+      "Paddington_(film) | setting | London",
+      "Paddington_(film) | setting | Peru",
+      "Paddington_Bear | species | Bear",
+      "Paddington_Bear | residence | London"
+    ],
+    "cnt": 0
+  },
+  {
+    "custom_id": "Glass_35",
+    "title": "Glass",
+    "text": "Glass remained a luxury material, and the disasters that overtook Late Bronze Age civilizations seem to have brought glass-making to a halt. Indigenous development of glass technology in South Asia may have begun in 1730 BCE. In ancient China, though, glassmaking seems to have a late start, compared to ceramics and metal work. The term glass developed in the late Roman Empire. It was in the Roman glassmaking center at Trier, now in modern Germany, that the late-Latin term glesum originated, probably from a Germanic word for a transparent, lustrous substance. Glass objects have been recovered across the Roman empire in domestic, industrial and funerary contexts.[citation needed]",
+    "input": [
+      "Trier | country | Germany",
+      "Roman_glass | location | Trier",
+      "Roman_glass | region | Roman_Empire",
+      "Glass | etymology | Late_Latin",
+      "Glass | etymology | Germanic_languages",
+      "Glass_production | region | South_Asia",
+      "Ancient_China | technology | Ceramic",
+      "Ancient_China | technology | Metalworking",
+      "Trier | knownFor | Glass_production",
+      "Glass | use | Industry",
+      "Glass | use | Funerary_art",
+      "Glass | use | Houseware"
+    ],
+    "cnt": 1
+  },
+  {
+    "custom_id": "Buildings at 10, 12, 14, and 16 East Chase Street_33",
+    "title": "Buildings at 10, 12, 14, and 16 East Chase Street",
+    "text": "Buildings at 10, 12, 14, and 16 East Chase Street is a historic set of rowhouses located at Baltimore, Maryland, United States. Number 10 is a -story brick townhouse with a 3-bay front façade, fitted with marble facing from ground to first floor level. It is believed to have been designed by Bruce Price and / or E. Francis Baldwin, architects of neighboring Christ Church. Numbers 12, 14, and 16, by contrast, are identical -story, two-bay houses constructed of green serpentine marble with contrasting stone detail. The group dates from between 1870 and 1875. They represent a fine example of the Gothic Revival style as interpreted for domestic architecture.",
+    "input": [
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | location | Baltimore",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | state | Maryland",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | country | United_States",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | architect | Bruce_Price",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | architect | E._Francis_Baldwin",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | architecturalStyle | Gothic_Revival_architecture",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | material | Marble",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | material | Serpentinite",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | buildingType | Terraced_house",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | address | 10, 12, 14, and 16 East Chase Street",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | built | 1870–1875",
+      "Buildings_at_10,_12,_14,_and_16_East_Chase_Street | completionDate | \"1875-01-01\""
+    ],
+    "cnt": 2
+  },
+  {
+    "custom_id": "7598_16",
+    "title": "George Santayana",
+    "text": "Jorge Agustín Nicolás Ruiz de Santayana y Borrás, known in English as George Santayana ( or ; December 16, 1863September 26, 1952), was a philosopher, essayist, poet, and novelist. Originally from Spain, Santayana was raised and educated in the United States from the age of eight and identified himself as an American, although he always kept a valid Spanish passport. He wrote in English and is generally considered an American man of letters. At the age of forty-eight, Santayana left his position at Harvard and returned to Europe permanently, never to return to the United States. His last wish was to be buried in the Spanish pantheon in Rome.",
+    "input": [
+      "George_Santayana | birthDate | \"1863-12-16\"",
+      "George_Santayana | deathDate | \"1952-09-26\"",
+      "George_Santayana | occupation | Philosopher",
+      "George_Santayana | occupation | Essayist",
+      "George_Santayana | occupation | Poet",
+      "George_Santayana | occupation | Novelist",
+      "George_Santayana | birthName | \"Jorge Agustín Nicolás Ruiz de Santayana y Borrás\"@es",
+      "George_Santayana | nationality | Spain",
+      "George_Santayana | citizenship | Spain",
+      "George_Santayana | language | English_language",
+      "George_Santayana | employer | Harvard_University",
+      "George_Santayana | residence | United_States",
+      "George_Santayana | residence | Europe",
+      "George_Santayana | origin | Spain",
+      "George_Santayana | alias | \"George Santayana\"@en"
+    ],
+    "cnt": 3
+  },
+  {
+    "custom_id": "2935_34",
+    "title": "Osc-Dis",
+    "text": "Osc-Dis or Oscillator in Distortion is the ninth album by Japanese band The Mad Capsule Markets. It was released in Japan in 1999 and released outside Japan in 2001. \"Osc-Dis\" was the band's breakthrough album and finally got them recognized overseas, with the single \"Pulse\". The album mixes industrial metal, industrial rock and punk rock with various kinds of electronic music. It was more melodic than their previous album and included elements of pop punk. There are vocal contributions from Hirosuke from Balzac, Yamada from Geronimo, and Katsya from NND. This album also saw the birth of the band's mascots The White Crusher and The Cyborn.",
+    "input": [
+      "Osc-Dis | artist | The_Mad_Capsule_Markets",
+      "The_Mad_Capsule_Markets | album | Osc-Dis",
+      "Osc-Dis | genre | Industrial_metal",
+      "Osc-Dis | genre | Industrial_rock",
+      "Osc-Dis | genre | Punk_rock",
+      "Osc-Dis | genre | Electronic_music",
+      "Osc-Dis | genre | Pop_punk",
+      "The_Mad_Capsule_Markets | origin | Japan",
+      "Osc-Dis | country | Japan",
+      "Osc-Dis | released | 1999",
+      "Osc-Dis | released | 2001",
+      "Pulse_(The_Mad_Capsule_Markets_song) | album | Osc-Dis",
+      "Osc-Dis | singles | Pulse_(The_Mad_Capsule_Markets_song)",
+      "Osc-Dis | contributor | Balzac_(band)",
+      "Osc-Dis | genre | Industrial_music"
+    ],
+    "cnt": 4
+  },
+  {
+    "custom_id": "World Bank_6",
+    "title": "World Bank",
+    "text": "The President of the Bank is the president of the entire World Bank Group. The president, currently Jim Yong Kim, is responsible for chairing the meetings of the Boards of Directors and for overall management of the Bank. Traditionally, the President of the Bank has always been a US citizen nominated by the United States, the largest shareholder in the bank (the managing director of the International Monetary Fund having always been a European). The nominee is subject to confirmation by the Board of Executive Directors, to serve for a five - year, renewable term. While most World Bank presidents have had banking experience, some have not.",
+    "input": [
+      "President_of_the_World_Bank | officeHolder | Jim_Yong_Kim",
+      "Jim_Yong_Kim | office | President_of_the_World_Bank",
+      "World_Bank | president | Jim_Yong_Kim",
+      "World_Bank_Group | keyPerson | Jim_Yong_Kim",
+      "World_Bank | keyPerson | Jim_Yong_Kim",
+      "Jim_Yong_Kim | employer | World_Bank_Group",
+      "President_of_the_World_Bank | organisation | World_Bank_Group",
+      "President_of_the_World_Bank | organisation | World_Bank",
+      "World_Bank | shareholder | United_States",
+      "Managing_Director_of_the_International_Monetary_Fund | organisation | International_Monetary_Fund",
+      "World_Bank_Group | leader | Jim_Yong_Kim"
+    ],
+    "cnt": 5
+  },
+  {
+    "custom_id": "Route 3 (Laos)_12",
+    "title": "Route 3 (Laos)",
+    "text": "Route 3 is an important link in the north of Laos between China and Thailand. The 197 km route begins in the provincial capital Luang Namtha, Louang Namtha Province, Laos. It runs southwestwards reaching the provincial capital of Ban Houayxay, Bokeo Province, on river Mekong. On completion of the Fourth Thai-Lao Friendship Bridge it will end there. China is interested in improving traffic routes to Southeast Asia, to be financed with together with Thailand. China has the main share in the expansion of highways in Laos. The Laotian section is part of the Kunming–Bangkok Expressway, which is part of the Asian Highway AH3.",
+    "input": [
+      "National_Route_3_(Laos) | country | Laos",
+      "National_Route_3_(Laos) | routeStart | Luang_Namtha",
+      "National_Route_3_(Laos) | routeEnd | Ban_Houayxay",
+      "Luang_Namtha | isPartOf | Louang_Namtha_Province",
+      "Ban_Houayxay | isPartOf | Bokeo_Province",
+      "Ban_Houayxay | river | Mekong",
+      "Fourth_Thai–Lao_Friendship_Bridge | crosses | Mekong",
+      "National_Route_3_(Laos) | isPartOf | Kunming–Bangkok_Expressway",
+      "Kunming–Bangkok_Expressway | isPartOf | Asian_Highway_3",
+      "National_Route_3_(Laos) | isPartOf | Asian_Highway_3",
+      "Bokeo_Province | capital | Ban_Houayxay",
+      "Louang_Namtha_Province | capital | Luang_Namtha",
+      "Luang_Namtha | country | Laos",
+      "Ban_Houayxay | country | Laos",
+      "Bokeo_Province | country | Laos",
+      "Louang_Namtha_Province | country | Laos",
+      "Kunming–Bangkok_Expressway | country | China",
+      "Kunming–Bangkok_Expressway | country | Laos",
+      "Kunming–Bangkok_Expressway | country | Thailand",
+      "National_Route_3_(Laos) | fundedBy | China",
+      "National_Route_3_(Laos) | fundedBy | Thailand"
+    ],
+    "cnt": 6
+  },
+  {
+    "custom_id": "Piano Sonata in A minor, D 784 (Schubert)_45",
+    "title": "Piano Sonata in A minor, D 784 (Schubert)",
+    "text": "Franz Schubert's Piano Sonata in A minor, D 784 (posthumously published as Op. 143), is one of Schubert's major compositions for the piano. Schubert composed the work in February 1823, perhaps as a response to his illness the year before. It was however not published until 1839, eleven years after his death. It was given the opus number 143 and a dedication to Felix Mendelssohn by its publishers. The D 784 sonata, Schubert's last to be in three movements, is seen by many to herald a new era in Schubert's output for the piano, and to be a profound and sometimes almost obsessively tragic work.",
+    "input": [
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | composer | Franz_Schubert",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | key | A_minor",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | genre | Piano_sonata",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | instrument | Piano",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | compositionDate | \"1823-02\"",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | publicationDate | \"1839\"",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | opus | \"143\"",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | catalogue | D 784",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | dedicatedTo | Felix_Mendelssohn",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | movements | \"3\"",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | composed | February 1823",
+      "Piano_Sonata_in_A_minor,_D._784_(Schubert) | published | 1839"
+    ],
+    "cnt": 7
+  },
+  {
+    "custom_id": "8096_27",
+    "title": "Allerseelen (Strauss)",
+    "text": "\"Allerseelen\" (\"All Souls' Day\") is an art song for voice and piano composed by Richard Strauss in 1885, setting a poem by the Austrian poet Hermann von Gilm from his collection \"Letzte Blätter \" (Last Pages). It is the last in a collection of eight songs which were all settings of Gilm poems from the same volume entitled \"Acht Lieder aus Letzte Blätter \" (Eight Songs from Last Pages), the first collection of songs Strauss ever published as Op. 10 in 1885, including also \"Zueignung\" (Dedication) and \"Die Nacht\" (The Night). The song was orchestrated in 1932 by German conductor Robert Heger.",
+    "input": [
+      "Allerseelen_(Strauss) | composer | Richard_Strauss",
+      "Allerseelen_(Strauss) | genre | Art_song",
+      "Allerseelen_(Strauss) | instrument | Piano",
+      "Allerseelen_(Strauss) | instrument | Human_voice",
+      "Allerseelen_(Strauss) | lyricist | Hermann_von_Gilm",
+      "Allerseelen_(Strauss) | arranger | Robert_Heger",
+      "Robert_Heger | occupation | Conductor_(music)",
+      "Robert_Heger | nationality | Germany",
+      "Hermann_von_Gilm | occupation | Poet",
+      "Hermann_von_Gilm | nationality | Austria",
+      "Zueignung_(Strauss) | composer | Richard_Strauss",
+      "Die_Nacht_(Strauss) | composer | Richard_Strauss"
+    ],
+    "cnt": 8
+  },
+  {
+    "custom_id": "4304_39",
+    "title": "Nuestra Belleza México 2009",
+    "text": "The 16th annual Nuestra Belleza México pageant was held at the Centro de Convenciones Yucatán Siglo XXI of Mérida, Yucatán, Mexico on September 20, 2009. It was the second time there were back-to-back victories for a state in Nuestra Belleza México history: Ximena Navarrete from Jalisco was crowned by outgoing Nuestra Belleza México titleholder Karla Carrillo also from Jalisco. She was the third Jalisciense to win this title. Thirty-four contestants of the Mexican Republic competed for the national title. Navarrete competed in Miss Universe 2010 in the US and won the Universal Title.",
+    "input": [
+      "Nuestra_Belleza_México_2009 | location | Mérida,_Yucatán",
+      "Nuestra_Belleza_México_2009 | country | Mexico",
+      "Miss_Universe_2010 | location | United_States",
+      "Miss_Universe_2010 | winner | Ximena_Navarrete",
+      "Miss_Universe_2010 | participant | Ximena_Navarrete",
+      "Nuestra_Belleza_México_2009 | winner | Ximena_Navarrete",
+      "Ximena_Navarrete | predecessor | Karla_Carrillo",
+      "Karla_Carrillo | successor | Ximena_Navarrete",
+      "Ximena_Navarrete | birthPlace | Jalisco",
+      "Karla_Carrillo | birthPlace | Jalisco",
+      "Mérida,_Yucatán | isPartOf | Yucatán",
+      "Mérida,_Yucatán | country | Mexico"
+    ],
+    "cnt": 9
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1661",
+    "gem_parent_id": "web_nlg_en-validation-1661",
+    "input": [
+      "Acharya_Institute_of_Technology | city | Bangalore",
+      "Acharya_Institute_of_Technology | established | 2000",
+      "Acharya_Institute_of_Technology | motto | \"Nurturing Excellence\"",
+      "Acharya_Institute_of_Technology | country | \"India\"",
+      "Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700",
+      "Acharya_Institute_of_Technology | campus | \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\"",
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University"
+    ],
+    "text": "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 is the location of the Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University. The motto of the Institute which was established in the year 2000 is \"Nurturing Excellence\" and there are 700 postgraduate students.",
+    "references": [
+      "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 is the location of the Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University. The motto of the Institute which was established in the year 2000 is \"Nurturing Excellence\" and there are 700 postgraduate students.",
+      "The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, India, 560090. It was established in 2000 and its motto is \"Nurturing Excellence\". It has 700 postgraduate students and it is affiliated to the Visvesvaraya Technological University.",
+      "The Acharya Institute of Technology in Bangalore, India was created in 2000, has 700 post graduate students and uses as its motto Nurturing Excellence. It is affiliated with Visvesvaraya Technological University and its full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+    ],
+    "category": "University",
+    "webnlg_id": "dev/University/7/Id2",
+    "cnt": 10
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1666",
+    "gem_parent_id": "web_nlg_en-validation-1666",
+    "input": [
+      "Visvesvaraya_Technological_University | city | Belgaum",
+      "Acharya_Institute_of_Technology | director | \"Dr. G. P. Prabhukumar\"",
+      "Acharya_Institute_of_Technology | established | 2000",
+      "Acharya_Institute_of_Technology | state | Karnataka",
+      "Acharya_Institute_of_Technology | country | \"India\"",
+      "Acharya_Institute_of_Technology | campus | \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\"",
+      "Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University"
+    ],
+    "text": "In the year 2000 the Acharya Institute of Technology was established in the state of Karnataka, India. The current location is \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\" The Director is Dr G P Prabhukumar and it is affiliated with the Visvesvaraya Technological University in the city of Belgaum.",
+    "references": [
+      "In the year 2000 the Acharya Institute of Technology was established in the state of Karnataka, India. The current location is \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\" The Director is Dr G P Prabhukumar and it is affiliated with the Visvesvaraya Technological University in the city of Belgaum.",
+      "The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, India, 560090. It was established in 2000 and its director is Dr G P Prabhukumar. It is affiliated to the Visvesvaraya Technological University in Belgaum.",
+      "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University which is in Belgaum. The institute itself is in India's Karnataka state and its full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It was created in 2000 and its director is Dr. G. P. Prabhukumar."
+    ],
+    "category": "University",
+    "webnlg_id": "dev/University/7/Id7",
+    "cnt": 11
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1659",
+    "gem_parent_id": "web_nlg_en-validation-1659",
+    "input": [
+      "Azerbaijan | capital | Baku",
+      "Baku_Turkish_Martyrs'_Memorial | material | \"Red granite and white marble\"",
+      "Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | dedicatedTo | \"Ottoman Army soldiers killed in the Battle of Baku\"",
+      "Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan",
+      "Baku_Turkish_Martyrs'_Memorial | designer | \"Hüseyin Bütüner and Hilmi Güner\"",
+      "Azerbaijan | legislature | National_Assembly_(Azerbaijan)"
+    ],
+    "text": "The National Assembly is the official legislature of Azerbaijan which is led by a Prime Minister. The capital city is Baku which is the location of the Turkish Martyrs' memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku.",
+    "references": [
+      "The National Assembly is the official legislature of Azerbaijan which is led by a Prime Minister. The capital city is Baku which is the location of the Turkish Martyrs' memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku.",
+      "Baku is the capital of Azerbaijan where the leader's title is Prime Minister and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.",
+      "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Memorial. It is located in Baku, Azerbaijan, which has legislature of National Assembly, and led by the Prime Minster. The memorial is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku."
+    ],
+    "category": "Monument",
+    "webnlg_id": "dev/Monument/7/Id2",
+    "cnt": 12
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1346",
+    "gem_parent_id": "web_nlg_en-validation-1346",
+    "input": [
+      "Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | country | Brazil",
+      "Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube"
+    ],
+    "text": "Brazilian football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Serie C is a Brazilian league. Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro Série C.",
+    "references": [
+      "Brazilian football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Serie C is a Brazilian league. Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro Série C.",
+      "Agremiacao Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League, as they did in 2015, which is based in Brazil. The current champions of this league are Vila Nova Futebol Clube.",
+      "Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube have been champions of Série C."
+    ],
+    "category": "SportsTeam",
+    "webnlg_id": "dev/SportsTeam/4/Id13",
+    "cnt": 13
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1388",
+    "gem_parent_id": "web_nlg_en-validation-1388",
+    "input": [
+      "Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force",
+      "United_States_Air_Force | attackAircraft | Lockheed_AC-130",
+      "United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III",
+      "United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle",
+      "United_States_Air_Force | battle | Korean_War"
+    ],
+    "text": "The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.",
+    "references": [
+      "The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.",
+      "The United States Air Force, which fought battles in the Korean war, is the operating organisation for Al Asad airbase. The US Airforce has a Boeing C-17 Globemaster III transport aircraft, an aircraft fighter called the McDonnell Douglas F-15 Eagle and an attack aircraft named The Lockheed AC-130."
+    ],
+    "category": "Airport",
+    "webnlg_id": "dev/Airport/5/Id7",
+    "cnt": 14
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1658",
+    "gem_parent_id": "web_nlg_en-validation-1658",
+    "input": [
+      "11th_Mississippi_Infantry_Monument | country | \"United States\"",
+      "Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland",
+      "11th_Mississippi_Infantry_Monument | established | 2000",
+      "Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania",
+      "11th_Mississippi_Infantry_Monument | category | Contributing_property",
+      "11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania",
+      "11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania"
+    ],
+    "text": "The Municipality of Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.",
+    "references": [
+      "The Municipality of Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.",
+      "The 11th Mississippi Infantry monument which was erected in the municipality of Gettysburg, Adams County, Pennsylvania, US in 2000 is categorised as a contributing property. Adams County is located south of Cumberland County in the same state, and Carroll County, Maryland is situated to the southeast."
+    ],
+    "category": "Monument",
+    "webnlg_id": "dev/Monument/7/Id1",
+    "cnt": 15
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1387",
+    "gem_parent_id": "web_nlg_en-validation-1387",
+    "input": [
+      "Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force",
+      "United_States_Air_Force | attackAircraft | Lockheed_AC-130",
+      "United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III",
+      "United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon",
+      "United_States_Air_Force | battle | United_States_invasion_of_Panama"
+    ],
+    "text": "Al Asad airbase is operated by the United States Air Force. Some of its aircraft include the Boeing C-17 Globemaster III (transport aircraft), General Dynamics F-16 Fighting Falcon (aircraft fighter), and the Lockheed AC-130 which can be found on USAF aircraft carriers. The USAF was involved in the Invasion of Panama.",
+    "references": [
+      "Al Asad airbase is operated by the United States Air Force. Some of its aircraft include the Boeing C-17 Globemaster III (transport aircraft), General Dynamics F-16 Fighting Falcon (aircraft fighter), and the Lockheed AC-130 which can be found on USAF aircraft carriers. The USAF was involved in the Invasion of Panama.",
+      "Al Asad airbase is operated by the United States Air Force which was involved in battles at the invasion of Panama. They deploy the Lockheed AC-130 on their aircraft carriers, the Boeing C-17 Globemaster III as transport aircraft and the General Dynamics F-16 Fighting Falcon as fighter aircraft.",
+      "The United States Air Force, which was involved in the Invasion of Panama, are the operators of Al Asad airbase. The USAF have aircraft including: the Lockheed AC-130 attack aircraft, the Boeing C-17 Globemaster III transporter and the General Dynamics F-16 Fighting Falcon fighter plane."
+    ],
+    "category": "Airport",
+    "webnlg_id": "dev/Airport/5/Id6",
+    "cnt": 16
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1470",
+    "gem_parent_id": "web_nlg_en-validation-1470",
+    "input": [
+      "Asilomar_Conference_Grounds | location | Pacific_Grove,_California",
+      "Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | \"1987-02-27\"",
+      "Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement",
+      "Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | \"87000823\"",
+      "Asilomar_Conference_Grounds | yearOfConstruction | 1913"
+    ],
+    "text": "The Asilomar Conference Grounds were constructed in 1913. They are located in Pacific Grove, California and they were added to the National Register of Historic Places on February 27th 1987 (with reference number 87000823). The grounds are in the architectural style of the Arts and Crafts Movement.",
+    "references": [
+      "The Asilomar Conference Grounds were constructed in 1913. They are located in Pacific Grove, California and they were added to the National Register of Historic Places on February 27th 1987 (with reference number 87000823). The grounds are in the architectural style of the Arts and Crafts Movement.",
+      "Asilomar Conference Grounds are located in Pacific Grove, California. They were constructed in 1913 with the architectural style of the Arts and Crafts Movement. They were added to the National Register of Historic Places on 27 February 1987 with reference number \"87000823\".",
+      "The Asilomar Conference Grounds were constructed in 1913 and are in Pacific Grove, California. They have an Arts and Crafts movement style architecture and were added to the National Register of Historic Places on 27 February 1987 with the reference number 87000823."
+    ],
+    "category": "Building",
+    "webnlg_id": "dev/Building/5/Id14",
+    "cnt": 17
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1598",
+    "gem_parent_id": "web_nlg_en-validation-1598",
+    "input": [
+      "Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C",
+      "Campeonato_Brasileiro_Série_C | country | Brazil",
+      "Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca",
+      "Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas",
+      "Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube"
+    ],
+    "text": "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense. It is located in Alagoas. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil. The Vila Nova Futebol Clube were champions at the Série C.",
+    "references": [
+      "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense. It is located in Alagoas. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil. The Vila Nova Futebol Clube were champions at the Série C.",
+      "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. from Brazil in which Agremiação Sportiva Arapiraquense also play. This latter team have their ground at Estádio Municipal Coaracy da Mata Fonseca which is located in Alagoas.",
+      "Llocated in Alagoas, Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense. They play in the Campeonato Brasileiro Série C league, which is from Brazil, and the champions of which have been Vila Nova Futebol Clube."
+    ],
+    "category": "SportsTeam",
+    "webnlg_id": "dev/SportsTeam/5/Id3",
+    "cnt": 18
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1653",
+    "gem_parent_id": "web_nlg_en-validation-1653",
+    "input": [
+      "Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey",
+      "Buzz_Aldrin | mission | Apollo_11",
+      "Buzz_Aldrin | selectedByNasa | 1963",
+      "Buzz_Aldrin | occupation | Fighter_pilot",
+      "Buzz_Aldrin | almaMater | \"Massachusetts Institute of Technology, Sc.D. 1963\"",
+      "Apollo_11 | backupPilot | William_Anders",
+      "Apollo_11 | operator | NASA"
+    ],
+    "text": "Fighter pilot Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. He was a member of the Apollo 11 crew after being selected by NASA in 1963 with William Anders as a backup pilot on Apollo 11.",
+    "references": [
+      "Fighter pilot Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. He was a member of the Apollo 11 crew after being selected by NASA in 1963 with William Anders as a backup pilot on Apollo 11.",
+      "Buzz Aldrin was born in Glen Ridge, New Jersey. He graduated from MIT in 1963 with a doctorate in Science. He was a fighter pilot and began working for NASA in 1963. Aldrin was a member of Apollo 11, which was run by NASA and William Anders was the backup pilot.",
+      "Buzz Aldrin was born in Glen Ridge, New Jersey and obtained a doctorate in Science from MIT in 1963. He served as a fighter pilot before being hired by NASA in 1963 and serving as a crew member on Apollo 11 with backup pilot William Anders."
+    ],
+    "category": "Astronaut",
+    "webnlg_id": "dev/Astronaut/7/Id9",
+    "cnt": 19
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1567",
+    "gem_parent_id": "web_nlg_en-validation-1567",
+    "input": [
+      "Delta_II | launchSite | Vandenberg_Air_Force_Base",
+      "Antares_(rocket) | comparable | Delta_II",
+      "Delta_II | countryOrigin | United_States",
+      "Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0",
+      "Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV"
+    ],
+    "text": "The launch site of the rocket Antares was the Mid-Atlantic Regional Spaceport Launch Pad 0, which is associated with the Minotaur IV rocket. The Antares rocket is comparable with the Delta II, which originated from the United States, and was launched at Vandenberg Air Force Base.",
+    "references": [
+      "The launch site of the rocket Antares was the Mid-Atlantic Regional Spaceport Launch Pad 0, which is associated with the Minotaur IV rocket. The Antares rocket is comparable with the Delta II, which originated from the United States, and was launched at Vandenberg Air Force Base.",
+      "The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. The latter rocket is comparable to the Delta II which originated in the United States and launched from the Vandenberg Air Force Base."
+    ],
+    "category": "MeanOfTransportation",
+    "webnlg_id": "dev/MeanOfTransportation/5/Id15",
+    "cnt": 20
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1249",
+    "gem_parent_id": "web_nlg_en-validation-1249",
+    "input": [
+      "Beef_kway_teow | mainIngredient | \"Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil\"",
+      "Beef_kway_teow | ingredient | Palm_sugar",
+      "Beef_kway_teow | region | Indonesia",
+      "Beef_kway_teow | country | \"Singapore and Indonesia\""
+    ],
+    "text": "Beef kway teow is found in the countries of Indonesia and Singapore. Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, palm sugar, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are main ingredients in beef kway teow.",
+    "references": [
+      "Beef kway teow is found in the countries of Indonesia and Singapore. Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, palm sugar, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are main ingredients in beef kway teow.",
+      "The main ingredients for Beef Kway Teow, a dish commonly found in Indonesia and Singapore, are: Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, palm sugar and sesame oil.",
+      "Beef Kway Teow is a dish served in Indonesia and Singapore and the ingredients are: kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, palm sugar, chilli and sesame oil."
+    ],
+    "category": "Food",
+    "webnlg_id": "dev/Food/4/Id24",
+    "cnt": 21
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1429",
+    "gem_parent_id": "web_nlg_en-validation-1429",
+    "input": [
+      "Christian_Burns | genre | House_music",
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina",
+      "Andrew_Rayel | instrument | String_instrument",
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns",
+      "Andrew_Rayel | associatedBand/associatedMusicalArtist | \"Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi\""
+    ],
+    "text": "Andrew Rayel wad a string instrumentalist who is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+    "references": [
+      "Andrew Rayel wad a string instrumentalist who is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+      "String instrumentalist Andrew Rayel is associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.",
+      "String instrumentalist Andrew Rayel is associated with: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi."
+    ],
+    "category": "Artist",
+    "webnlg_id": "dev/Artist/5/Id23",
+    "cnt": 22
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1487",
+    "gem_parent_id": "web_nlg_en-validation-1487",
+    "input": [
+      "10_Hygiea | epoch | 2015-06-27",
+      "10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)",
+      "10_Hygiea | surfaceArea | 837080.744 (squareKilometres)",
+      "10_Hygiea | temperature | 164.0 (kelvins)",
+      "10_Hygiea | apoapsis | 523951582.33968 (kilometres)"
+    ],
+    "text": "The surface area of the asteroid 10 Hygiea is 837,080.744 square kilometres while its temperatures is 164 degrees Kelvin. The asteroid has an epoch date of June 27th, an escape velocity of 0.21 kilometres a second and an apoapsis of 523,951,582.33968 kilometres.",
+    "references": [
+      "The surface area of the asteroid 10 Hygiea is 837,080.744 square kilometres while its temperatures is 164 degrees Kelvin. The asteroid has an epoch date of June 27th, an escape velocity of 0.21 kilometres a second and an apoapsis of 523,951,582.33968 kilometres.",
+      "The asteroid called 10 Hygiea had an epoch date on 27th June 2015, its temperature is 164.0 kelvins and its surface area is 837080.744 square kilometres. It has an escape velocity of 0.21 kilometres per second and its apoapsis is 523951582.33968 kms.",
+      "10 Hygiea, with an epoch date of June 27, 2015, has and escape velocity of 0.21 km per sec. The surface area is 837080.744 sq km, an apoasis of 523951582.33968 km and a temperature of 164 Kelvins."
+    ],
+    "category": "CelestialBody",
+    "webnlg_id": "dev/CelestialBody/5/Id11",
+    "cnt": 23
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1577",
+    "gem_parent_id": "web_nlg_en-validation-1577",
+    "input": [
+      "Abdul_Taib_Mahmud | successor | Adenan_Satem",
+      "Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu",
+      "Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak",
+      "Abdul_Taib_Mahmud | residence | \"Demak Jaya, Jalan Bako, Kuching, Sarawak\"",
+      "Adenan_Satem | almaMater | University_of_Adelaide"
+    ],
+    "text": "The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his residence was Demak Jaya, Jalan Bako, Kuching, Sarawak. He was a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem who had attended the University of Adelaide.",
+    "references": [
+      "The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his residence was Demak Jaya, Jalan Bako, Kuching, Sarawak. He was a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem who had attended the University of Adelaide.",
+      "Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak. He is a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by the University of Adelaide educated Adenan Satem.",
+      "Abdul Taib Mahmud was born in the Kingdom of Sarawak, lives in Demak Jaya, Jalan Bako, Kuching, Sarawak and is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who studied at the University of Adelaide."
+    ],
+    "category": "Politician",
+    "webnlg_id": "dev/Politician/5/Id1",
+    "cnt": 24
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1613",
+    "gem_parent_id": "web_nlg_en-validation-1613",
+    "input": [
+      "Alcatraz_Versus_the_Evil_Librarians | language | English_language",
+      "English_language | spokenIn | Great_Britain",
+      "United_States | leader | Barack_Obama",
+      "Alcatraz_Versus_the_Evil_Librarians | country | United_States",
+      "United_States | ethnicGroup | African_Americans"
+    ],
+    "text": "The United States is home to the ethnic group of African Americans and is led by Barack Obama. The country is the origin of the book Alcatraz Versus the Evil Librarians. This book was written in English, as spoken in Great Britain.",
+    "references": [
+      "The United States is home to the ethnic group of African Americans and is led by Barack Obama. The country is the origin of the book Alcatraz Versus the Evil Librarians. This book was written in English, as spoken in Great Britain.",
+      "Alcatraz Versus the Evil Librarians is from the United States and is written in English which is also spoken in Great Britain. The leader of the US is Barack Obama and African Americans are one of the ethnic groups."
+    ],
+    "category": "WrittenWork",
+    "webnlg_id": "dev/WrittenWork/5/Id6",
+    "cnt": 25
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1657",
+    "gem_parent_id": "web_nlg_en-validation-1657",
+    "input": [
+      "Hypermarcas | industry | Pharmaceuticals",
+      "Hypermarcas | subsidiary | Mantecorp",
+      "Hypermarcas | netIncome | 108600000",
+      "Hypermarcas | numberOfEmployees | 10252",
+      "Hypermarcas | product | Healthcare",
+      "Hypermarcas | location | São_Paulo",
+      "Hypermarcas | revenue | 1800000000"
+    ],
+    "text": "Hypermarcas is a pharmaceutical company which produces healthcare products. Located in Sao Paulo, they employ 10,252 people, and own the subsidiary Mantecorp. They make $1,800,000,000 a year and have a net income of 108,600,000.",
+    "references": [
+      "Hypermarcas is a pharmaceutical company which produces healthcare products. Located in Sao Paulo, they employ 10,252 people, and own the subsidiary Mantecorp. They make $1,800,000,000 a year and have a net income of 108,600,000.",
+      "Hypermarcas, a seller of healthcare products in the pharmaceutical industry, is based in São Paulo where they employ 10,252 employees. They earn $1800000000 a year, netting $108,600,000. They also have a subsidiary called Mantecorp.",
+      "Mantecorp is a subsidiary of Hypermarcas, which is a pharmaceutical company that makes healthcare products. Hypermarcas employs 10,252 in the Sao Paulo area while generating 1,800,000,000 in revenue."
+    ],
+    "category": "Company",
+    "webnlg_id": "dev/Company/7/Id1",
+    "cnt": 26
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1509",
+    "gem_parent_id": "web_nlg_en-validation-1509",
+    "input": [
+      "United_States | ethnicGroup | Asian_Americans",
+      "United_States | language | English_language",
+      "United_States | capital | Washington,_D.C.",
+      "Albany,_Oregon | isPartOf | Benton_County,_Oregon",
+      "Albany,_Oregon | country | United_States"
+    ],
+    "text": "The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.",
+    "references": [
+      "The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.",
+      "The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken."
+    ],
+    "category": "City",
+    "webnlg_id": "dev/City/5/Id22",
+    "cnt": 27
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1451",
+    "gem_parent_id": "web_nlg_en-validation-1451",
+    "input": [
+      "Aleksandr_Prudnikov | club | FC_Amkar_Perm",
+      "FC_Terek_Grozny | ground | Grozny",
+      "Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow",
+      "Aleksandr_Prudnikov | club | FC_Terek_Grozny",
+      "FC_Terek_Grozny | manager | Rashid_Rakhimov"
+    ],
+    "text": "Aleksandr Prudnikov is an associate of the youth side of FC Spartak Moscow. He plays for the Amkar Perm football club and the Terek Grozny FC which is managed by Rashid Rakhimov. The latter football club is in Grozny.",
+    "references": [
+      "Aleksandr Prudnikov is an associate of the youth side of FC Spartak Moscow. He plays for the Amkar Perm football club and the Terek Grozny FC which is managed by Rashid Rakhimov. The latter football club is in Grozny.",
+      "Aleksandr Prudnikov once played for FC Spartak Moscow's youth team. He plays with the FC Amkar Perm and the FC Terek Grozny which is managed by Rashid Rakhimov and has its home territory in Grozny.",
+      "Aleksandr Prudnikov, who represented FC Spartak Moscow at youth level, later played for Grozny based FC Terek Grozny - managed by Rashid Rakhimov - and FC Amkar Perm football club."
+    ],
+    "category": "Athlete",
+    "webnlg_id": "dev/Athlete/5/Id4",
+    "cnt": 28
+  },
+  {
+    "gem_id": "web_nlg_en-validation-1516",
+    "gem_parent_id": "web_nlg_en-validation-1516",
+    "input": [
+      "Bananaman | starring | Tim_Brooke-Taylor",
+      "Bananaman | broadcastedBy | BBC",
+      "Bananaman | creator | John_Geering",
+      "Bananaman | firstAired | \"1983-10-03\"",
+      "Bananaman | lastAired | \"1986-04-15\""
+    ],
+    "text": "Bananaman was shown on the BBC, first airing on 3 October 1983 and the final broadcast being 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.",
+    "references": [
+      "Bananaman was shown on the BBC, first airing on 3 October 1983 and the final broadcast being 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.",
+      "The BBC began airing Bananaman October 3rd, 1983 and the last episode was broadcast on April 15th, 1986. John Geering is one of the creators of Bananaman which also starred Tim Brooke-Taylor.",
+      "The TV character Bananaman was created by John Geering. The programme was broadcast by the BBC and starred Tim Brooke-Taylor. It first aired on the 10th March 1983 and was last shown on April 15th 1986."
+    ],
+    "category": "ComicsCharacter",
+    "webnlg_id": "dev/ComicsCharacter/5/Id1",
+    "cnt": 29
+  }
+]
