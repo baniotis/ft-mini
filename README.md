@@ -225,7 +225,7 @@ Ground-truth JSON files for evaluation:
 
 ### `prompts/`
 
-`p0.txt` … `p4.txt` — prompt templates for experimentation.
+`p0.txt` … `p4.txt` → prompt templates for experimentation.
 
 ### `train_validation_sets/set_creator/`
 
