@@ -24,15 +24,17 @@ organizations, works) and their relationships.
 - Ignore trivial or redundant text that does not 
 result in a factual assertion.
 
-### 2. Entity Linking (Subject & Object)
-- Map extracted entities to their specific DBpedia 
-URI (dbr:).
-- **Surface Form Preference:** If multiple URIs 
-exist, prefer the one that most closely matches the 
-spelling in the input text (e.g., use 
-`dbr:Hypera_Pharma` if the text says "Hypera Pharma").
-- If an entity cannot be confidently linked to a 
-DBpedia URI, use a String Literal.
+### 2. Entity Linking 
+- Map extracted entities to their specific DBpedia URI (dbr:). 
+- Surface Form Preference: If multiple URIs exist, prefer the one 
+that most closely matches the spelling in the input text (e.g., use 
+dbr:Hypera_Pharma if the text says "Hypera Pharma"). 
+- If an OBJECT cannot be confidently linked to a DBpedia URI, use 
+a String Literal. - CRITICAL: An RDF Subject MUST be a URI. If a 
+SUBJECT cannot be linked to an existing DBpedia URI, you must 
+invent a valid DBpedia URI based on its name 
+(e.g., dbr:Unknown_Startup_Name). NEVER use a string literal as a Subject.
+
 
 ### 3. Predicate Mapping
 - Map the relationship to the most specific DBpedia 
