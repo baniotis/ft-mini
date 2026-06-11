@@ -16,12 +16,12 @@ of "Input Triples" extracted from that text.
 
 # Instructions:
 
-### 1. Entity Linking (Subject & Object)
+### 1. Entity Linking
 - Map entities to their specific DBpedia 
 URI (dbr:).
 - Example: "Michael Jordan" (basketball) 
 → dbr:Michael_Jordan
-- If an entity is generic or cannot be 
+- If an object entity is generic or cannot be 
 linked (e.g., specific numbers, dates, 
 or unknown names), format them as Literals.
 

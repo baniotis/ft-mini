@@ -24,13 +24,13 @@ organizations, works) and their relationships.
 - Ignore trivial or redundant text that does not 
 result in a factual assertion.
 
-### 2. Entity Linking (Subject & Object)
+### 2. Entity Linking (Subject)
 - Map extracted entities to their specific DBpedia 
 URI (dbr:).
 - **Surface Form Preference:** If multiple URIs 
 exist, prefer the one that most closely matches 
 the spelling in the input text.
-- If an entity cannot be confidently linked to a 
+- If an object entity cannot be confidently linked to a 
 DBpedia URI, use a String Literal.
 
 ### 3. Predicate Mapping
