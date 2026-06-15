@@ -87,6 +87,17 @@ ground of Agremiação Sportiva Arapiraquense in
 Arapiraca. The team, nicknamed 'Alvinegro', plays 
 in Série C and was founded in 1952."
 
+## Example Input (Turtle):
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:ground 
+dbr:Estádio_Municipal_Coaracy_da_Mata_Fonseca .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:league dbr:Campeonato_Brasileiro_Série_C .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:nickname "Alvinegro"@en .
+dbr:Agremiação_Sportiva_Arapiraquense 
+dbo:foundingYear "1952"^^xsd:gYear .
+
 ## Example Output:
 dbr:Agremiação_Sportiva_Arapiraquense dbo:ground 
 dbr:Estádio_Municipal_Coaracy_da_Mata_Fonseca .
