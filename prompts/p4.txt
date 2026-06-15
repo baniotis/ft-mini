@@ -60,7 +60,13 @@ ingredients), **DO NOT** split them into multiple
 triples. Maintain the list as a single string 
 literal if that reflects the sentence structure best.
 
-### 5. Output Format
+### 5. RDF Type Assertions
+- If a triple indicates what something 
+*is* (e.g., "is a city", "was a writer"), 
+use `rdf:type` mapping the object to a 
+DBpedia Class (dbo:).
+
+### 6. Output Format
 - STRICT Turtle format.
 - Use the prefixes defined below.
 - End every triple with a period `.`.

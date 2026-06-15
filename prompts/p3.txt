@@ -14,7 +14,7 @@ the Turtle syntax.
 You will be provided with:
 1. A raw text passage ("Input Text")
 2. A set of pre-extracted subject–predicate–object 
-triples that are NOT aligned to any ontology
+triples that are aligned to DBpedia ontology
 
 # Instructions:
 
@@ -24,7 +24,7 @@ organizations, works) and their relationships.
 - Ignore trivial or redundant text that does not 
 result in a factual assertion.
 
-### 2. Entity Linking (Subject)
+### 2. Entity Linking
 - Map extracted entities to their specific DBpedia 
 URI (dbr:).
 - **Surface Form Preference:** If multiple URIs 
@@ -51,7 +51,7 @@ format inside quotes.
 - **Lists:** If a sentence provides a list 
 for one property, keep it as a single string literal.
 
-### 5. Use of Pre-Extracted Triples (No Ontology)
+### 5. Use of Pre-Extracted Triples
 - You may be provided with pre-extracted 
 subject–predicate–object triples.
 - These triples are semantic hints only.
