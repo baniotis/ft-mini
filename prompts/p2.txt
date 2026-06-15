@@ -77,16 +77,16 @@ Arapiraquense in Arapiraca. The team,
 nicknamed 'Alvinegro', plays in Série C."
 
 ## Example Input Triples:
-1. (Ground of Agremiação Sportiva Arapiraquense) 
+(Ground of Agremiação Sportiva Arapiraquense) 
 | (has name) 
 | (Estádio Municipal Coaracy da Mata Fonseca)
-2. (Agremiação Sportiva Arapiraquense) 
+(Agremiação Sportiva Arapiraquense) 
 | (is located in) | (Arapiraca)
-3. (Agremiação Sportiva Arapiraquense) 
+(Agremiação Sportiva Arapiraquense) 
 | (league) | (Campeonato Brasileiro Série C)
-4. (Agremiação Sportiva Arapiraquense) 
+(Agremiação Sportiva Arapiraquense) 
 | (has nickname) | (Alvinegro)
-5. (Agremiação Sportiva Arapiraquense) 
+(Agremiação Sportiva Arapiraquense) 
 | (founded in) | (1952)
 
 ## Example Output (Turtle):
