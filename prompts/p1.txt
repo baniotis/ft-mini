@@ -81,25 +81,22 @@ additional text. Output only the extracted
 triples.
 
 ## Example Source Text:
-"The 2016 Blancpain GT Sports Club was the second season of the
-SRO Group's Blancpain GT Sports Club, an auto racing series for
-grand tourer cars. The Blancpain GT Sports Club is a championship
-for Bronze and Iron drivers only. The 'Iron' categorisation is
-within the Bronze category, for drivers over the age of 60.
-All drivers must participate with GT3-spec cars, RACB G3 cars
-or GTE-spec cars."
+"Estádio Municipal Coaracy da Mata Fonseca 
+is the ground of Agremiação Sportiva 
+Arapiraquense in Arapiraca. The team, 
+nicknamed 'Alvinegro', plays in Série C."
 ## Example Output:
-(2016 Blancpain GT Sports Club) | (was) | (second season of Blancpain GT Sports Club)
-(Blancpain GT Sports Club) | (is organized by) | (SRO Group)
-(Blancpain GT Sports Club) | (is) | (auto racing series)
-(Blancpain GT Sports Club) | (is for) | (grand tourer cars)
-(Blancpain GT Sports Club) | (is championship for) | (Bronze drivers)
-(Blancpain GT Sports Club) | (is championship for) | (Iron drivers)
-(Iron categorisation) | (is within) | (Bronze category)
-(Iron categorisation) | (is for) | (drivers over the age of 60)
-(All drivers) | (must participate with) | (GT3-spec cars)
-(All drivers) | (must participate with) | (RACB G3 cars)
-(All drivers) | (must participate with) | (GTE-spec cars)
+(Ground of Agremiação Sportiva Arapiraquense) 
+| (has name) 
+| (Estádio Municipal Coaracy da Mata Fonseca)
+(Agremiação Sportiva Arapiraquense) 
+| (is located in) | (Arapiraca)
+(Agremiação Sportiva Arapiraquense) 
+| (league) | (Campeonato Brasileiro Série C)
+(Agremiação Sportiva Arapiraquense) 
+| (has nickname) | (Alvinegro)
+(Agremiação Sportiva Arapiraquense) 
+| (founded in) | (1952)
 
 ## Input Source Text:
 """
