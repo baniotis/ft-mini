@@ -2,7 +2,7 @@
 
 Utilities to fine-tune **gpt-4o-mini** into **FT-Mini**, a model that extracts DBpedia-aligned RDF triples (Turtle) from plain text. Training data is compiled from WebNLG family and  MuSiQue and HotpotQA-style sources.
 
-On **HotMusValid**, FT-Mini reached **F1 0.3236** vs **0.2375** for a 2-step prompting baseline in an external comparison study.
+On **HotMusValid**, FT-Mini reached **F1 0.3236** vs **0.2375** for a 3-step prompting baseline in an external comparison study.
 
 ## Quick start
 
