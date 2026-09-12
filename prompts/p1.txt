@@ -84,7 +84,8 @@ triples.
 "Estádio Municipal Coaracy da Mata Fonseca 
 is the ground of Agremiação Sportiva 
 Arapiraquense in Arapiraca. The team, 
-nicknamed 'Alvinegro', plays in Série C."
+nicknamed 'Alvinegro', plays in Série C,
+and was founded in 1952."
 ## Example Output:
 (Ground of Agremiação Sportiva Arapiraquense) 
 | (has name) 
