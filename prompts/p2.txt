@@ -41,8 +41,10 @@ use `rdf:type` mapping the object to a
 DBpedia Class (dbo:).
 
 ### 4. Literal Handling
-- Strings: "Value"@en
-- Dates: "YYYY-MM-DD"^^xsd:date
+- Strings: "Value" (Do not append 
+language tags)
+- Dates: "YYYY-MM-DD" (Do not use xsd 
+suffixes)
 - Integers: 123
 - Use standard XSD types where 
 applicable.
